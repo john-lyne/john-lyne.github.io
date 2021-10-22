@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "3D Channel Flow Super-Resolution"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/som_data_transform2.png'>"
 collection: portfolio
 ---
