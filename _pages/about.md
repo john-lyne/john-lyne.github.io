@@ -13,7 +13,7 @@ I am a graduate student pursuing a MASc. in Systems Design Engineering at the Un
 My research interests lie at the intersection between machine learning and fluid dynamics. In other words, leveraging the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employing data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations. 
 
 
-Education <img src="/images/uwaterloo.png" alt="drawing" width="200"/><img src="/images/uofa.png" alt="drawing" width="100"/>
+Education <img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img src="/images/uofa.png" alt="drawing" width="100"/>
 ======
 
 **September 2020 - Present**
