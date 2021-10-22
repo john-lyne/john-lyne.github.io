@@ -18,19 +18,23 @@ Education <img src="/images/uwaterloo.png" alt="drawing" width="200"/><img src="
 
 **September 2020 - Present**
 
-MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada 
+<sub> **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** </sub>
 
-* Graduate Course Work: Fluid Mechanics, Hydrodynamic Stability and Turbulence, Mathematics of Computation, Pattern Recognition
-* Cumulative GPA: 4.0/4.0
+<sub>**Graduate Course Work: Fluid Mechanics, Hydrodynamic Stability and Turbulence, Mathematics of Computation, Pattern Recognition**</sub>
 
----
+<sub>**Cumulative GPA: 4.0/4.0**</sub>
+
+----
+
 **September 2016 - April 2020**
 
-Bachelor of Science in Mechanical Engineering, [University of Alberta](https://www.ualberta.ca/engineering/index.html), Edmonton, Alberta, Canada
+<sub>**Bachelor of Science in Mechanical Engineering, [University of Alberta](https://www.ualberta.ca/engineering/index.html), Edmonton, Alberta, Canada**</sub>
 
-* Co-operative Program with Distinction
-* Cumulative GPA: 3.6/4.0 
+<sub>**Co-operative Program with Distinction**</sub>
 
+<sub>**Cumulative GPA: 3.6/4.0**</sub>
+
+---
 
 Getting started
 ======
