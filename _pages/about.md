@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Harnessing machine learning to further understand how fluids behave"
+title: "Harnessing machine learning to further our understanding of how fluids behave"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
