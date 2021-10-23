@@ -14,6 +14,7 @@ Education
 ### September 2020 - August 2022
 
 #### **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** 
+
 ##### **Cumulative GPA: 4.0/4.0**
 
 ### September 2015 - April 2020
@@ -21,8 +22,6 @@ Education
 #### **Bachelor of Science in Mechanical Engineering, [University of Alberta](https://www.ualberta.ca/engineering/index.html), Edmonton, Alberta, Canada**
 
 ##### **Co-operative Program with Distinction**
-
-##### Favourite Courses: Dynamics, Fluid Dynamics, Energy Conversion
 
 ##### **Cumulative GPA: 3.6/4.0**
  
