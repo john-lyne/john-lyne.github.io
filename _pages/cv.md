@@ -37,7 +37,7 @@ Work experience
   * Volumetric super-resolution of turbulent fluid velocity fields
   * Development of generative adversarial networks with physics enforced regularization for fluid synthesis
   * Employment of self-organizing maps for turbulent structure clustering
-
+* Supervisor: [Andrea Scott](https://uwaterloo.ca/systems-design-engineering/profile/ka3scott)
 <img src="/images/navblue.png" alt="drawing" width="200"/>
 
 * May 2018 - December 2018, **Data Analyst**, Navblue an Airbus Company, Miami, FL
@@ -45,6 +45,7 @@ Work experience
   * Data analysis of flight data for runway safety and airspace management teams
   * Provided tutorials to employees to demonstrate the benefits of Airbus' new big data platform
     * Tutorial sessions provided locally (in Miami) and at Navblue HQ in Toulouse, France 
+* Supervisor: [Logan Jones](https://www.linkedin.com/in/aerospacelogan/)
 
 <img src="/images/pcl.jpg" alt="drawing" width="200"/>
 
