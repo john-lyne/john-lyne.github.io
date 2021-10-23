@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-### September 2020 - Present
+### September 2020 - August 2022
 
 #### **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** 
 ##### **Cumulative GPA: 4.0/4.0**
