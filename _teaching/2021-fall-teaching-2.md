@@ -3,7 +3,7 @@ title: "SYDE 113 - Matrices and Linear Systems"
 collection: teaching
 type: "Teaching Assistant"
 venue: "University of Waterloo, Systems Design Engineering Department"
-date: 2021
+date: 2021-09-01
 location: "Waterloo, Canada"
 ---
 
