@@ -7,6 +7,8 @@ collection: portfolio
 This project involved exploring the use of GANs to generate so-called "fake" turbulence. I provided a brief overview of the dynamics of GANs in this [post](https://john-lyne.github.io/posts/2021-10-GANs/). The training data for this project were 2D horizontal slices of velocity fields in a direct numerical simulation (DNS) of turbulent channel flow. If you don't know what a channel flow DNS is, it's essentially a simulation where we are forcing fluid to flow through a rectangular box, and the DNS means that these simulations are very accurate and that we aren't taking any shortcuts when it comes to solving the governing equations of fluid motion.</br>
 Not taking any shortcuts means these simulations are quite computationally heavy, and take a long time to simulate. The motivation around training a GAN to generate these flow instances is to have it act as an emulator - i.e the hope is that this GAN model can emulate fluid flow with the same precision as a DNS, in a fraction of the time.
 
+Some of the limitations of this method is that as we increase the dimensionality of the data (i.e moving to 3D), the networks get prohibitively expensive, and it isn't possible to train a network on my full simulation domain. It worked great for the small slices I was able to fit though - we'll just have to wait for computing to catch up before moving to higher dimensional synthesis.
+
 Some results of the project can be seen in the figures below:
 
 <img src='/images/PGGAN_arch.PNG' width="600" class="center">
