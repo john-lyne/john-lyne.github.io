@@ -25,8 +25,6 @@ Education
 ##### Favourite Courses: Dynamics, Fluid Dynamics, Energy Conversion
 
 ##### **Cumulative GPA: 3.6/4.0**
-
-<img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img src="/images/uofa.png" alt="drawing" width="100"/> <img src="/images/canada.png" alt="drawing" width="200"/>
  
 Work experience
 ======
