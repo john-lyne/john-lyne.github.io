@@ -38,6 +38,7 @@ Work experience
   * Development of generative adversarial networks with physics enforced regularization for fluid synthesis
   * Employment of self-organizing maps for turbulent structure clustering
 * Supervisor: [Andrea Scott](https://uwaterloo.ca/systems-design-engineering/profile/ka3scott)
+
 <img src="/images/navblue.png" alt="drawing" width="200"/>
 
 * May 2018 - December 2018, **Data Analyst**, Navblue an Airbus Company, Miami, FL
