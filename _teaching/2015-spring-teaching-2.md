@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "SYDE 113 - Matrices and Linear Systems"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "University of Waterloo, Systems Design Engineering Department"
+date: 2021-05-01 - 2021-08-13
+location: "Waterloo, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Geometry and algebra: root-finding, vectors, coordinate systems, lines and planes, conic sections, complex numbers. Introduction to numerical computation. Floating point arithmetic, accuracy and sources of error. Matrix algebra, inverses. Analytical and numerical techniques for systems of linear equations. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Tasks included:
+* Providing help sessions for students (1 on 1 and group)
+* Assignment/examination assessment
