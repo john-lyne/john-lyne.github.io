@@ -59,6 +59,7 @@ Work experience
 Skills
 ======
 * Fluid Dynamics
+  * Theoretical & Computational
 * Deep learning
   * Supervised methods
     * Super-resolution
