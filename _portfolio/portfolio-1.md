@@ -1,6 +1,6 @@
 ---
 title: "3D Channel Flow Super-Resolution"
-excerpt: "Three dimensional fluid velocity super-resolution </br><img src='/images/srres2.PNG'>"
+excerpt: "Three dimensional fluid velocity super-resolution <img src='/images/srres2.PNG'>"
 collection: portfolio
 ---
 
