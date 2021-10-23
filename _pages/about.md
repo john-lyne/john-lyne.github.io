@@ -16,7 +16,7 @@ My research interests lie at the intersection between machine learning and fluid
 Education
 ======
 
-### September 2020 - Present
+### September 2020 - August 2022
 
 #### **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** 
 ##### **Graduate Course Work: Fluid Mechanics, Hydrodynamic Stability and Turbulence, Mathematics of Computation, Pattern Recognition**
