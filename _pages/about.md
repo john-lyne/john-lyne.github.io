@@ -29,7 +29,7 @@ Education
 
 ##### **Co-operative Program with Distinction**
 
-##### Favourite Courses: Dynamics, Fluid Dynamics, Energy Conversion
+##### Favourite Courses: Heat Transfer, Fluid Mechanics, Energy Conversion
 
 ##### **Cumulative GPA: 3.6/4.0**
 
