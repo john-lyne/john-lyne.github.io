@@ -11,49 +11,74 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**September 2020 - August 2022**
+
+<sub> **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** </sub>
+
+<sub>**Graduate Course Work: Fluid Mechanics, Hydrodynamic Stability and Turbulence, Mathematics of Computation, Pattern Recognition**</sub>
+
+<sub>**Cumulative GPA: 4.0/4.0**</sub>
+
+----
+
+**September 2015 - April 2020**
+
+<sub>**Bachelor of Science in Mechanical Engineering, [University of Alberta](https://www.ualberta.ca/engineering/index.html), Edmonton, Alberta, Canada**</sub>
+
+<sub>**Co-operative Program with Distinction**</sub>
+
+<sub>**Cumulative GPA: 3.6/4.0**</sub>
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<img src="/images/uwaterloo.png" alt="drawing" width="100"/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* September 2020 - Present: **Graduate Research Assistant**, University of Waterloo, Waterloo, ON
+  * Volumetric super-resolution of turbulent fluid velocity fields
+  * Development of generative adversarial networks with physics enforced regularization for fluid synthesis
+  * Employment of self-organizing maps for turbulent structure clustering
+
+<img src="/images/navblue.png" alt="drawing" width="200"/>
+
+* May 2018 - December 2018: **Data Analyst**, Navblue an Airbus Company, Miami, FL
+  * Business case development for a novel runway safety product
+  * Data analysis of flight data for runway safety and airspace management teams
+  * Provided tutorials to employees to demonstrate the benefits of Airbus' new big data platform
+    * Tutorial sessions provided locally (in Miami) and at Navblue HQ in Toulouse, France 
+
+<img src="/images/pcl.jpg" alt="drawing" width="200"/>
+
+* May 2017 - December 2017: **Project Coordinator**, PCL Industrial Construction, Redwater, AB
+  * Developed an insulation release and reporting database using Access and Excel to provide greater visibility on productivity and progress ultimately leading to more efficiently planned work and an improved schedule resulting in estimated project savings exceeding $100,000
+
+<img src="/images/suncor.png" alt="drawing" width="200"/>
+
+* April 2016 - August 2016: **Production Technician**, Suncor Energy, Edmonton, AB
+  * Performed audiovisual runtime inspections of industrial refining equipment, assisted in maintenance activities, and acquired and tested high temperature gas oil and distillate samples
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluid Dynamics
+* Deep learning
+  * Supervised methods
+    * Super-resolution
+  * Unsupervised methods
+    * Generative adversarial nets
+    * Self organized maps 
+  * Tensorflow/Keras
+* Python (advanced)
+* SQL (intermediate)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering/Clubs
 ======
-* Currently signed in to 43 different slack teams
+* **Engineering Program Mock Interviewer**
+  * Interviewed freshman engineering students and provided advice to prepare them for their first professional interviews.
+* **Distributed Dynamic Propulsion Undergraduate Research Aerodynamics and Control Team**
+  * Developed Python scripts to calculate the effect of distributed dynamic propulsion on the aerodynamic forces experienced by model aircraft.
+
