@@ -1,6 +1,6 @@
 ---
 title: "Turbulent Structure Identification using Self Organized Maps"
-excerpt: "Three dimensional fluid velocity super-resolution. 1<br/><img src='/images/movie10k.gif'>"
+excerpt: "Clustering distinct features present in channel flow turbulence. 1<br/><img src='/images/movie10k.gif'>"
 collection: portfolio
 ---
 
