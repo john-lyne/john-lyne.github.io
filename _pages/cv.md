@@ -33,14 +33,14 @@ Work experience
 ======
 <img src="/images/uwaterloo.png" alt="drawing" width="100"/>
 
-* September 2020 - Present: **Graduate Research Assistant**, University of Waterloo, Waterloo, ON
+* September 2020 - Present, **Graduate Research Assistant**, University of Waterloo, Waterloo, ON
   * Volumetric super-resolution of turbulent fluid velocity fields
   * Development of generative adversarial networks with physics enforced regularization for fluid synthesis
   * Employment of self-organizing maps for turbulent structure clustering
 
 <img src="/images/navblue.png" alt="drawing" width="200"/>
 
-* May 2018 - December 2018: **Data Analyst**, Navblue an Airbus Company, Miami, FL
+* May 2018 - December 2018, **Data Analyst**, Navblue an Airbus Company, Miami, FL
   * Business case development for a novel runway safety product
   * Data analysis of flight data for runway safety and airspace management teams
   * Provided tutorials to employees to demonstrate the benefits of Airbus' new big data platform
@@ -48,12 +48,12 @@ Work experience
 
 <img src="/images/pcl.jpg" alt="drawing" width="200"/>
 
-* May 2017 - December 2017: **Project Coordinator**, PCL Industrial Construction, Redwater, AB
+* May 2017 - December 2017, **Project Coordinator**, PCL Industrial Construction, Redwater, AB
   * Developed an insulation release and reporting database using Access and Excel to provide greater visibility on productivity and progress ultimately leading to more efficiently planned work and an improved schedule resulting in estimated project savings exceeding $100,000
 
 <img src="/images/suncor.png" alt="drawing" width="200"/>
 
-* April 2016 - August 2016: **Production Technician**, Suncor Energy, Edmonton, AB
+* April 2016 - August 2016, **Production Technician**, Suncor Energy, Edmonton, AB
   * Performed audiovisual runtime inspections of industrial refining equipment, assisted in maintenance activities, and acquired and tested high temperature gas oil and distillate samples
 
 Skills
