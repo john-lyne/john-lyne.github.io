@@ -13,7 +13,7 @@ I am a graduate student pursuing a MASc. in Systems Design Engineering at the Un
 My research interests lie at the intersection between machine learning and fluid dynamics. In other words, leveraging the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employing data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations. 
 
 
-Education <img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img src="/images/uofa.png" alt="drawing" width="100"/> <img src="/images/canada.png" alt="drawing" width="200"/>
+Education
 ======
 
 **September 2020 - Present**
@@ -34,6 +34,8 @@ Education <img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img sr
 
 <sub>**Cumulative GPA: 3.6/4.0**</sub>
 
+<img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img src="/images/uofa.png" alt="drawing" width="100"/> <img src="/images/canada.png" alt="drawing" width="200"/>
+ 
 Hobbies & Interests
 ---
 In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train 3-5 times per week. I also enjoy baking, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. 
@@ -41,6 +43,8 @@ In my spare time I enjoy playing chess and playing the frustrating (yet fulfilli
 I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, and it helps that the powers exhibited by the main character are heavily influenced by fluids (water and fire). 
 
 <img src="/images/ds_gif.gif">
+
+---
 
 Fluid Dynamics Art
 ---
