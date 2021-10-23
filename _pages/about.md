@@ -36,7 +36,9 @@ Education <img src="/images/uwaterloo.png" alt="drawing" width="100"/>   <img sr
 
 Hobbies & Interests
 ---
-In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, and the powers exhibited by the main character are heavily influenced by fluids (water and fire). 
+In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train 3-5 times per week. I also enjoy baking, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. 
+
+I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, and it helps that the powers exhibited by the main character are heavily influenced by fluids (water and fire). 
 
 <img src="/images/ds_gif.gif">
 
