@@ -1,7 +1,7 @@
 ---
 title: "SYDE 383 - Fluid Mechanics"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "University of Waterloo, Systems Design Engineering Department"
 date: Spring 2021
