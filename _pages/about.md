@@ -39,7 +39,7 @@ Hobbies & Interests
 ---
 In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train 3-5 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. 
 
-I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, it helps that the powers exhibited by the main character are heavily influenced by fluids (as seen below). 
+I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, it also helps that the powers exhibited by the main character are heavily influenced by fluids.
 
 <img src="/images/ds_gif.gif">
 
