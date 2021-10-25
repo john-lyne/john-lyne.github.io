@@ -31,3 +31,5 @@ Here are some qualitative results obtained throughout the PGGAN training process
 
 <img src='/images/PGGAN_progress.PNG' width="600" class="center">
 
+The interesting thing about StyleGAN2 is that you can apply the [truncation trick](https://paperswithcode.com/method/truncation-trick). This involves truncating the latent space that we are sampling from, and what we can end up doing is selectively choose to generate images from the edge of our distribution. This translates to less frequent samples - or more unique samples. You can imagine it like this, say I do this for a distribution for human faces. By using the truncation trick, I can generate faces with less frequent, more unique features such as a man with a moustache and glasses. 
+Likewise for fluid dynamics, this translates to flow instances with localized high/low magnitude velocity values. In other words, it offers the ability to generate the otherwise infrequent intermittent events found in turbulence. 
