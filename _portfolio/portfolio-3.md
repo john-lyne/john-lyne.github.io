@@ -10,7 +10,7 @@ My project involved applying super-resolution to three dimensional volumes of fl
 The first network I tested was the SRResnet, where I modified the standard 2 dimensional architechture to support 3D super-resolution instead (this essentially just involved changing from 2D to 3D convolutions with a few tweaks here and there). Then I tried the improved version, the Enhanced Deep Residual Network (EDSR). Finally, I explored adding a discriminator to the mix - creating a EDSR-GAN network. The motivation around adding discriminators to these networks is that while the networks alone perform quite well, they can struggle to get the fine details.</br>
 Adding a discriminator introduces a critic that can essentially take a magnifying glass to the fine scales and tell the super-resolution network to work on these areas that it would have otherwise glossed over. For some more insight on GANs and the role of a discriminator, you can check out my post [here](https://john-lyne.github.io/posts/2021-10-GANs/). 
 
-Validation and test error was on the order of ~1% (MAE of around 0.01). Errors were more pronounced at the boundaries due to the padding operations between convolutional layers. Reflective padding helped slightly to alleviate this. Qualitative results from a basic 3D SRResnet can be seen below.
+Validation and test error was on the order of ~1% (MAE of around 0.01). Errors were more pronounced at the boundaries due to the padding operations between convolutional layers. Reflective padding helped slightly to alleviate this. Qualitative results from a basic 3D SRResnet can be seen below. Left is low resolution, middle is super-resolved, right is ground truth. Rows correspond to different velocity channels.
 
 <img src='/images/srres.png'>
 
