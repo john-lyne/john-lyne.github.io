@@ -35,6 +35,12 @@ Work experience
   * Employment of self-organizing maps for turbulent structure clustering
 * Supervisor: [Andrea Scott](https://uwaterloo.ca/systems-design-engineering/profile/ka3scott)
 
+<img src="/images/ansys-logo.jpg" alt="drawing" width="200"/>
+
+* January 2022 - April 2022, **Software Development Intern**, Ansys, Remote
+  * Software development pertaining to an interpreter update for ANSYS Electronics Desktop 
+  * Identified robust and efficient scripts for interpreter testing, in an already existing software testing suite, which led to an interpreter test suite that improved function coverage by 2.5X, and decreased test suite execution time by 23X
+
 <img src="/images/navblue.png" alt="drawing" width="200"/>
 
 * May 2018 - December 2018, **Data Analyst**, Navblue an Airbus Company, Miami, FL
