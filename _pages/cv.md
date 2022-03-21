@@ -39,7 +39,7 @@ Work experience
 
 * January 2022 - April 2022, **Software Development Intern**, Ansys, Remote
   * Software development pertaining to an interpreter update for ANSYS Electronics Desktop 
-  * Identified robust and efficient scripts for interpreter testing, in an already existing software testing suite, which led to an interpreter test suite that improved function coverage by 2.5X, and decreased test suite execution time by 23X
+  * Identified robust and efficient scripts for interpreter testing, in an already existing software testing suite, which led to an interpreter test suite that improved test coverage by 2.5X while decreasing test suite execution time by 23X
 
 <img src="/images/navblue.png" alt="drawing" width="200"/>
 
