@@ -1,6 +1,6 @@
 ---
-title: "Turbulent Structure Identification using Self Organized Maps"
-excerpt: "Clustering distinct features present in channel flow turbulence <br/><img src='/images/vortex.pdf'>"
+title: "Unsupervised learning for turbulent structure identification"
+excerpt: "Clustering dynamically salient regions of channel flow turbulence <br/><img src='/images/vortex.pdf'>"
 collection: portfolio
 ---
 
