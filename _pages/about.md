@@ -16,7 +16,7 @@ My research interests lie at the intersection between machine learning and fluid
 Education
 ======
 
-### September 2020 - August 2022
+### September 2020 - December 2022
 
 #### **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** 
 ##### **Graduate Course Work: Fluid Mechanics, Hydrodynamic Stability and Turbulence, Mathematics of Computation, Pattern Recognition**
@@ -37,7 +37,8 @@ Education
  
 Hobbies & Interests
 ---
-In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train 3-5 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. 
+In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train ~3 times per week and do cardiovascular training ~2 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
+
 
 I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, it also helps that the powers exhibited by the main character are heavily influenced by fluids.
 
