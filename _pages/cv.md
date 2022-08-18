@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-### September 2020 - September 2022
+### September 2020 - December 2022
 
 #### **MASc. in Systems Design Engineering - Machine Learning and Intelligence Specialization, [University of Waterloo](https://uwaterloo.ca/engineering/), Waterloo, Ontario, Canada** 
 
