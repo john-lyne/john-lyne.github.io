@@ -2,7 +2,7 @@
 title: "Psychology"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/history/
+permalink: /booknotes/pyschology/
 date: 2022-09-01
 ---
 
