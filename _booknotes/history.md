@@ -1,6 +1,6 @@
 ---
-title: "A Beginner's Guide to Generative Adversarial Networks"
-collection: Posts
+title: "History"
+collection: booknotes
 type: "Guide"
 permalink: /booknotes/history/
 date: 2022-09-01
