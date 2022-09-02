@@ -16,4 +16,7 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Book Notes"
+    url: /book_notes/    
