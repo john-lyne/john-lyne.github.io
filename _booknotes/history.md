@@ -8,10 +8,9 @@ date: 2022-09-01
 
 A collection of notes regarding to books read on history.
 
-Guns, Germs, and Steel
-======
-Jared Diamond
-======
+# Guns, Germs, and Steel
+## Jared Diamond 
+
 This book explores the question of why some regions of the world developed and expanded faster than others.
 * The continent of Eurasia had a significant advantage relative to others, that being a east-west principal axis. Longitudinaly, lengths of days and general climate vary slightly, allowing for propogation of domesticable plants, which later enabled trade. Continents with north-south axes (Africa, the Americas) saw climate differences and varying lengths of days, making it difficult for abundandant crops to spread
 * Eurasia had the largest abundance of nutritionally rich cereals (wheat and barley) and pulses (peas, lentils, chickpeas), which have great protein contents and are simple to farm
@@ -22,10 +21,12 @@ This book explores the question of why some regions of the world developed and e
 * Densely populated areas also proved fertile ground for viral development. Over generations, those living in dense regions developed immunity to certain viruses, however when this viruses were exposed to a group for the first time, the group would be decimated. This is how much of the Americas were conquered by the Europeans
 * In short, advantages arose due to luck of the draw in terms of the environment that people resided in, it had nothing to do with the colour of their skin
 
-The Evolution of God
-======
-Robert Wright
-======
-### Header 3 ###
-
-
+#The Evolution of God
+## Robert Wright
+### Primordial Faith
+* Animinism is the attribution of life to the inanimate, which is thought to be inhabited by a soul or spirit. This was primordial religion, where the soul hypothesis handidly answered difficult questions, such as why we dream
+* Animism is though to have evolved into polytheism, as if one believes that a tree has a soul, trees must be collectively governed by a forest god
+### Shamans
+* Shamans developed as religious experts in hunter gatherer tribes. Credibility was gained through sheer luck or predictable outcomes (i.e saving the sun from an eclipse), and when their interventions failed they would lose support
+  *Much like how a series of bad bets by a stock market analyst leads to a conclusion that the analyst is out of touch, not that he was lucky in the first place
+*
