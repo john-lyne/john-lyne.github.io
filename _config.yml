@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  booknotes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -228,6 +231,16 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
+   # _booknoets
+  - scope:
+      path: ""
+      type: booknotes
     values:
       layout: single
       author_profile: true
