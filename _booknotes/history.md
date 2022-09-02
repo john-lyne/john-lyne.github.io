@@ -1,4 +1,3 @@
-
 ---
 title: "A Beginner's Guide to Generative Adversarial Networks"
 collection: Posts
