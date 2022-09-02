@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Generative Adversarial Networks"
 collection: Posts
 type: "Guide"
-permalink: /bokknotes/history/
+permalink: /booknotes/history/
 date: 2022-09-01
 ---
 
