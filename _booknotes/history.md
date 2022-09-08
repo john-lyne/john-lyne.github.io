@@ -41,7 +41,7 @@ This book sees how religion evolved alongside humans, from hunter gatherer tribe
 * As chiefdoms grew into states, states that adopted religions gained a comptetive edge over others due to improved social cohesion. Religion provided citizens with a moral compass (i.e Egyptian gods would punish you for urinating in a public well)
 * Early conquerors were theologically flexible, absorbing the gods of the conquered into their theology to avoid needless squabbles within empires
 * The earliest hint of monotheism came in roughly 2000BCE in Bablyonia, where the supreme god Marduk essentially engulfed all other gods (i.e the old god of rain became Marduk's hand). This was a simpler approach and improved theological flexibility
-## The emergence of Abrahamic Monotheism
+## The Emergence of Abrahamic Monotheism
 ### Polytheism, the Religion of Ancient Israel
 * In the first millenium BCE, the biblical god Yahweh was not yet omniscient. He planted the garden of Eden and walked around as Adam and Eve ate the forbidden fruit
 * Prior to monotheism, Israel went through a phase of granting existence to other gods, but condemning their worship
@@ -71,6 +71,7 @@ This book sees how religion evolved alongside humans, from hunter gatherer tribe
 * Proverbs (and other Jewish wisdom books) were part of a large wisdom tradition in the ancient Middle East, from Egypt to Mesopotamia, initially for upper class boys as they approach manhood
     * Taking the moral advice on faith was a time-saver, advice such as *“the rich man’s sleeplessness wastes away his flesh, and his anxiety drives away sleep”* and *“jealousy and anger shorten life, and worry ages a man prematurely”* (these hold up in terms of todays scientific knowledge)
 * In the Gospel of John (New Testament), the English version (among other European versions) mistranslated “Logos” to “Word”. *“In the beginning was the Logos, and the Logos was with God, and the Logos was God.”* And Logos (peak wisdom, enlightenment) had assumed the form of Jesus Christ
+## The Invention of Christianity
 ### What did Jesus do?
 * The bible’s gospel about Jesus’ life and words - the books of Matthew, Mark, Luke, and John - were written in 65-100 CE, roughly 35-75 years after his death. As the decades go by, the stories of Jesus get less constrained by historical memory and more impressive and fantastical
     * In the book of mark (earliest book) Jesus’ last words are “My God, my God, why have you forsaken me?”, as though it was a terrible surprise. But, in the book of Luke he expresses no signs of doubt or surprise (as he knows god’s plan all along)
@@ -88,6 +89,7 @@ This book sees how religion evolved alongside humans, from hunter gatherer tribe
 * The idea of followers following Jesus up to heaven after death came around 50 years after his death. In Mark, Jesus references a “kingdom of god”, where angel come down to earth and weed out bad people. Later in Matthew, this changes to “kingdom of heaven”, in which the souls of the good people ascend to heaven. For Jesus, judgement day was about the living, not the dead
 * The idea of eternal life after death likely came about to compete with other religions at the time (i.e the Egyptian god Osiris would hand out divine judgement after death). The “kingdom of god promise” on earth lost its magic, as Christians began to see loved ones dying. Christianity needed to provide a plausible explanation of how followers’ faiths would benefit them; what better way than to promise eternal bliss after death if you follow the rules
 * Some of these moral contingencies were about personal sins, like overindulgence. As society moved from hunter gather to civilization, they moved from outside of the natural habitat that natural selection optimized them for. Food was abundant, and humans are designed to consume calories; so, people would engage in self harming behaviour and religion helped to curve that behaviour
+## The Triumph of Islam
 ### The Koran
 * Mecca’s famous shrine, the Kaba, was in pre-Islamic times surrounded by idols of gods of various clans as to lubricate commerce. Apparently, a Christian had been allowed to paint Jesus and Mary on an inner wall in the Kaba. Before Muhammad came along, Christian Arabs made pilgrimage to the Kaba, honouring Allah as their god and saviour
 ### Mecca 
