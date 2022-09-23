@@ -104,6 +104,7 @@ A book about psychological truths that we tend to pretend don’t exist but are 
     * One reason the Prius has a distinct shape (being a hatchback, when most popular cars at the time were sedans) is to make it distinct and enhance the advertisement that their drivers are responsible, good-willed citizens 
 * In advertising, lifestyle advertising is the type of advertising that attempts to link a brand or product with a particular set of cultural associations
     * The third person effect: when Corona runs a “find your beach” ad, you think you’re too savvy to be manipulated by that ad. You would never fall for that! But you, the high and mighty know it all, think everyone else can be manipulated, and that they will like Corona, and this pitiful ad. So next time you’re invited to a backyard party, you bring Corona since it’s a beer that is more for chilling out (like at the beach) and you believe everyone loves it
+
 ### Art
 * Art is a fitness signal: it displays technical and creative skill, ingenuity, but also that you have time to waste
 * Art has intrinsic qualities (how beautiful/captivating it is to the eye), but also extrinsic qualities (technique used, who it was created by, the era in which it was made). We tend to judge art more on its extrinsic properties. Imagine if we were to create a gallery full of replicas. Intrinsically it would look the same, but we care most that the works are original and authentic (an extrinsic quality)
