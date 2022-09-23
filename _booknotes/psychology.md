@@ -139,7 +139,7 @@ A book about psychological truths that we tend to pretend don’t exist but are 
 * All or nothing with respect to a political organization’s views signals loyalty to that group
 
 # *Thinking, Fast and Slow* by Daniel Kahneman
-##Part 1: Two systems
+## Part 1: Two systems
 ### Chapter 1: The characters of the story
 * There are two mental agents, System 1 (intuitions, impressions, feelings that require little focus and are automatic) and System 2 (systematic thought that requires deliberate attention). Most of what is eventually thought or done originates in System 1, but System 2 gets the final say
 * This book is about recognizing situations in which System 1 errors are likely and avoid them accordingly. It is easier to recognize the mistakes of other rather than our own, due to the illusion of self and the associated self-serving biases
@@ -198,6 +198,7 @@ Chapter 14: Tom W’s speciality
 * Keys to disciplined Bayesian reasoning:
     * Anchor your judgement of the probability of an outcome on a plausible base rate
     * Question the diagnosticity of your evidence (intuitive impressions tend to exaggerate via the evidence)
+ 
 ### Chapter 15: Linda: less is more
 * Linda is 31, majored in philosophy, has a passion for social justice and is deeply concerned with discrimination. What is more likely: that Linda is a bank teller, or that Linda is a bank teller who is also active in the feminist movement?
 * The second choice is less probable, since feminist bank tellers are a subset of bank tellers, so the probability of feminist bank teller has to be less, yet our intuition tells us otherwise
@@ -228,6 +229,7 @@ Chapter 14: Tom W’s speciality
     * First find your reference class to compare against
     * Obtain the statistics of outcomes from the reference class. Use this as a base rate for success 
     * Slightly adjust the base rate based on your projects circumstances 
+
 ### Chapter 24: The engine of capitalism
 * From the finance industry to the medical industry, it is a sign of weakness and vulnerability for experts to appear unsure. Confidence is valued over uncertainty. 
 * Clinicians who were completely certain of their diagnoses are wrong 40% of the time. Confidence intervals from CFOs on stock performance are more than 3 times likely for outcomes to lie outside their 80% confidence intervals (i.e surprises)
