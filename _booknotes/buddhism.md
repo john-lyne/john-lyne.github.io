@@ -12,7 +12,7 @@ A collection of notes regarding to books read on buddhism, buddhist psychology, 
 # *Why Buddhism is True, Robert Wright*
 
 ### Chapter 1: Taking the red pill
-*Three basic principles of design for natural selection to ensure gene proliferation:
+* Three basic principles of design for natural selection to ensure gene proliferation:
 1.	Achieving goals should bring pleasure so that they’re pursued
 2.	The pleasure shouldn’t last forever---if people had eternal pleasure after one round of sex, genes wouldn’t proliferate as much
 3.	The animal’s brain should focus more on (1) than on (2), otherwise they may start asking what the point of fiercely pursuing pleasure is to just see it wane shortly after
