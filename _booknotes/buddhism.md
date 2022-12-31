@@ -8,7 +8,7 @@ date: 2022-11-20
 
 A collection of notes regarding to books read on buddhism, buddhist psychology, and buddhist philosophy.
 
-[Link text Here](https://john-lyne.github.io/booknotes/buddhism/test)
+[Link text Here](https://john-lyne.github.io/booknotes/buddhism/why_buddhism_is_true)
 
 
 # *Why Buddhism is True, Robert Wright*
