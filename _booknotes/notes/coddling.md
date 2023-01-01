@@ -8,6 +8,7 @@ date: 2022-12-31
 
 # *The Coddling of the American Mind* by Jonathan Haidt and Greg Lukianoff, 2018
 This book touches on the recent developments in some American universities, and tries to identify some of the causal mechanisms that give rise to the “… new problems on campus, [which] have their origins in three terrible ideas that have become increasingly woven into American childhood and education: What doesn’t kill you makes you weaker; always trust your feelings; and life is a battle between good people and evil people. These three Great Untruths contradict basic psychological principles about well-being and ancient wisdom from many cultures.  Embracing these untruths—and the resulting culture of safetyism—interferes with young people’s social, emotional, and intellectual development. It makes it harder for them to become autonomous adults who are able to navigate the bumpy road of life.”
+
 * Properties of the Great Untruths:
     1. They contradict ancient wisdom
     2. They contradict modern psychological research on well-being 
