@@ -8,13 +8,15 @@ date: 2022-09-01
 
 A collection of notes regarding to books read on pyschology.
 
-# *Happiness Hypothesis* by Jonathan Haidt
+# *Happiness Hypothesis* by Jonathan Haidt, 2006
 A book about happiness that uses a clever metaphor to describe the conflict between primitive motives and conscious thought.
+
 [Notes - Happiness Hypothesis](https://john-lyne.github.io/booknotes/psychology/happiness_hypothesis)
 
 
-# *The Coddling of the American Mind* by Jonathan Haidt and Greg Lukianoff
+# *The Coddling of the American Mind* by Jonathan Haidt and Greg Lukianoff, 2018
 This book touches on the recent developments in some American universities, and try to identify some of the causal mechanisms that give rise to the “… new problems on campus, [which] have their origins in three terrible ideas that have become increasingly woven into American childhood and education: What doesn’t kill you makes you weaker; always trust your feelings; and life is a battle between good people and evil people. These three Great Untruths contradict basic psychological principles about well-being and ancient wisdom from many cultures.  Embracing these untruths—and the resulting culture of safetyism—interferes with young people’s social, emotional, and intellectual development. It makes it harder for them to become autonomous adults who are able to navigate the bumpy road of life.”
+
 [Notes - The Coddling of the American Mind](https://john-lyne.github.io/booknotes/psychology/coddling)
 
 # *Elephant in the Brain* by Kevin Simler and Robin Hanson
