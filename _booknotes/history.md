@@ -1,7 +1,7 @@
 ---
 title: "History"
 collection: booknotes
-type: "Guide"
+type: "Section"
 permalink: /booknotes/history/
 date: 2022-09-01
 ---
