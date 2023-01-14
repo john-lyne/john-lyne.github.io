@@ -27,9 +27,13 @@ Education
  
 Work experience
 ======
+<img src="/images/bombardier-vector-logo.png" alt="drawing" width="100"/>
+
+* January 2023 - Present, **Aircraft Performance Engineer**, Bombardier, Toronto, ON
+
 <img src="/images/uwaterloo.png" alt="drawing" width="100"/>
 
-* September 2020 - Present, **Graduate Research Assistant**, University of Waterloo, Waterloo, ON
+* September 2020 - December 2022, **Graduate Research Assistant**, University of Waterloo, Waterloo, ON
   * Volumetric super-resolution of turbulent fluid velocity fields
   * Development of generative adversarial networks with physics enforced regularization for fluid synthesis
   * Employment of self-organizing maps for turbulent structure clustering
