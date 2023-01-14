@@ -1,7 +1,7 @@
 ---
 title: "Buddhism"
 collection: booknotes
-type: "Guide"
+type: "Section"
 permalink: /booknotes/buddhism/
 date: 2022-11-20
 ---
