@@ -1,7 +1,7 @@
 ---
 title: "Psychology"
 collection: booknotes
-type: "Guide"
+type: "Section"
 permalink: /booknotes/psychology/
 date: 2022-09-01
 ---
