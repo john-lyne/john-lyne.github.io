@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Lyne"
 title_separator          : "-"
 name                     : &name "John Lyne"
-description              : &description "Graduate Researcher at the University of Waterloo"
+description              : &description "Aircraft Performance Engineer"
 url                      : https://john-lyne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://john-lyne.github.io/"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "John Lyne"
   avatar           : "github_prof.png"
-  bio              : "Graduate Research Assistant at the University of Waterloo"
-  location         : "Waterloo, ON"
+  bio              : "Aircraft Performance Engineer"
+  location         : "Toronto, ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -219,14 +219,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: publications
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _portfolio
   - scope:
       path: ""
