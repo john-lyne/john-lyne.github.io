@@ -1,5 +1,5 @@
 ---
-title: "Guns, Germs, and Steel"
+title: "The Evolution of God"
 collection: booknotes
 type: "Guide"
 permalink: /booknotes/history/evo_god
