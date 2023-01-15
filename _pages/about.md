@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student pursuing a MASc. in Systems Design Engineering at the University of Waterloo. I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta, graduating with distinction. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries.
-
-My research interests lie at the intersection between machine learning and fluid dynamics. In other words, my goal is to leverage the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employ data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations. 
-
+Performance engineer for Bombardier's Global aircraft series. Aircraft performance is a function of aircraft weight and geometry, thrust, atmospheric properties, and the conditions of the flight. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular in the case of engine failure. Optimizing performance reduces the costs of operating the aircraft, thus aircraft performance correlates positively with the price of aircraft.
 
 Education
 ======
+I was a graduate student pursuing a MASc. in Systems Design Engineering at the University of Waterloo. I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta, graduating with distinction. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries.
+
+My research interests laid at the intersection between machine learning and fluid dynamics. In other words, the goal was to leverage the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employ data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations.
 
 ### September 2020 - December 2022
 
