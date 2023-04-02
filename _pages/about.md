@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Harnessing machine learning to further our understanding of how fluids behave"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Performance engineer for Bombardier's Global aircraft series. Aircraft performance is a function of aircraft weight and geometry, thrust, atmospheric properties, and the conditions of the flight. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular in the case of engine failure. Optimizing performance reduces the costs of operating the aircraft, thus aircraft performance correlates positively with the price of aircraft.
+Performance engineer for Bombardier's Global aircraft series. Aircraft performance is a function of aircraft weight and geometry, engine thrust, atmospheric properties, and particular condition (takeoff, landing, cruising) of the flight. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular in the case of engine failure. Optimizing performance reduces the costs of operating the aircraft, thus improved aircraft performance correlates positively with the price of aircraft.
 
 Education
 ======
-I was a graduate student pursuing a MASc. in Systems Design Engineering at the University of Waterloo. I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta, graduating with distinction. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries.
+I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries. As a graduate student I pursued a MASc. in Systems Design Engineering at the University of Waterloo.
 
 My research interests laid at the intersection between machine learning and fluid dynamics. In other words, the goal was to leverage the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employ data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations.
 
@@ -37,17 +37,16 @@ My research interests laid at the intersection between machine learning and flui
  
 Hobbies & Interests
 ---
-In my spare time I enjoy playing chess and playing the frustrating (yet fulfilling) game of golf. To remain active I strength train ~3 times per week and do cardiovascular training ~2 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
+In my spare time I enjoy reading, writing, and playing chess. To remain active I strength train ~3 time per week and cardiovascular train ~3 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
 
 
-I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional, it also helps that the powers exhibited by the main character are heavily influenced by fluids.
+I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional; the powers exhibited by the main character are heavily influenced by fluids.
 
 <img src="/images/ds_gif.gif">
 
----
 
 Fluid Dynamics Art
 ---
-These art pieces were generated with the help of physics and computer science! The shapes here are the physical shapes that a fluid velocity field takes when forced along a channel. The colors represent areas of different intensities, think of it like a topology of the fluid's speed. This topology was generated with the help of machine learning. See more [here](https://john-lyne.github.io/art/).
+The image below was generated with the help of physics and computer science! The shapes here are the physical shapes that a fluid velocity field takes when forced along a channel. The colors represent a topology of the fluid's speed. This topology was generated with the help of machine learning. See more [here](https://john-lyne.github.io/art/).
 
 <img src="/images/som_data_transform2.png">
