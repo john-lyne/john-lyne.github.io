@@ -10,6 +10,8 @@ redirect_from:
 
 Performance engineer for Bombardier's Global aircraft series. Aircraft performance is a function of aircraft weight and geometry, engine thrust, atmospheric properties, and particular condition (takeoff, landing, cruising) of the flight. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular in the case of engine failure. Optimizing performance reduces the costs of operating the aircraft, thus improved aircraft performance correlates positively with the price of aircraft.
 
+I also write about topics I find interesting on my Substack. These topics include biology, physics, complex systems, psychology, history, and philosophy. Check it out [here](https://johnlyne.substack.com/).
+
 Education
 ======
 I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries. As a graduate student I pursued a MASc. in Systems Design Engineering at the University of Waterloo.
