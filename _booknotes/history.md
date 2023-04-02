@@ -18,4 +18,4 @@ This book explores the question of why some regions of the world developed and e
 # *The Evolution of God* by Robert Wright
 This book sees how religion evolved alongside humans, from hunter gatherer tribes to civilizations. More emphasis on the monotheist Abrahamic religions.
 
-[Notes - Guns, Germs, and Steel](https://john-lyne.github.io/booknotes/history/evo_god)
+[Notes - The Evolution of God](https://john-lyne.github.io/booknotes/history/evo_god)
