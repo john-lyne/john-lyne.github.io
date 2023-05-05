@@ -34,3 +34,8 @@ A book that proposes that cognition arises from two mental systems, that of what
 A book detailing the rising prevalence of loneliness in the world as life has become more urbanized and digitized, the associated physiological and psychological risks associated with loneliness, and what we can do with our communities to mitigate these risks.
 
 [Notes - The Lonely Century](https://john-lyne.github.io/booknotes/psychology/lonely)
+
+# *The Moral Animal* by Robert Wright
+One of the early books on evolutionary psychology. How evolution has shaped our behaviour; our familial, romantic, and social relationships; and our social institutions.
+
+[Notes - The Moral Animal](https://john-lyne.github.io//booknotes/psychology/moral_animal)
