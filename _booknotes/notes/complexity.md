@@ -9,12 +9,12 @@ date: 2023-05-04
 # *Worlds Hidden in Plain Sight: Complexity Theory*, David Krakauer
 * “Convenient idealizations that throw the complex baby out with the merely complicated bathwater” --- idealizations approach complex systems by removal of complex features, but the magic and realism of the system is lost in the process
 * In a biological organism’s life, they learn and adapt to their environment, attempting to maximize fitness (or equivalently minimize losses) given the complex array of components making up that environment. During this learning process, it’s challenging for the player to know whether once a peak is reached, if it is the global optimum for that organism or whether they can maximize further. Much like if I own a stock and it levels out, I don’t know whether it’s peaking or not so I may decide to sell
-* Generalizing in life involves sampling many outcomes, resulting in a longer training process, more error, improving the possibility of reaching higher peaks. This is a crude process and reaching the absolute peak in any domain is unlikely due to the coarseness of the learning rate. Specializing involves sampling less outcomes and diving deeper into a local optimum and realizing its fullest local potential. Due to the granularity of the learning rate, this is possible, but it’s more likely to leave you at a local optimum of fitness
+* Generalizing in life involves sampling many outcomes; resulting in a longer training process, more exposure to error, yet improving the possibility of reaching higher peaks. This is a crude process and reaching the absolute peak in any domain is unlikely due to the coarseness of the learning rate. Specializing involves sampling less outcomes and trudging higher towards a local optimum and realizing its fullest local potential. Reaching the peak is made possible due to the granularity of the learning rate; but it’s also more likely to leave you at a local, rather than global, optimum of fitness.
     * Specializers: small learning rate, more likely to penetrate deeper towards a local optimum, but also more likely to get stuck at a local optimum
     * Generalists: large learning rate, less likely to penetrate deep into a optimum, but more likely to escape a local optimum
     * The optimal strategy likely lies in the middle, where an adaptive learning rate is used 
 * Observations from the natural world are mapped by humans into mathematical formulations. Patterns observed in the real world get encoded into symbols and strings of formal logical structure. Meaning is restricted to the natural world, formal systems have no way of synthesizing meaning, they just represent it symbolically.
-* Complexity is subjective, a random rock to an observer can be thrown, broken, or moved---that’s about it. But a rock to a geologist can be carbon dated and analyzed materialistically. What was simple to one was complex to another.
+* Complexity is subjective, a random rock to your typical observer can be thrown, broken, or moved---that’s about it. But a rock to a geologist can be carbon dated and analyzed materialistically. What was simple to one was complex to another.
 * Developing a complexity theory requires formalizing intuitive notions about complexity into symbols and syntax. The subjective nature of complexity makes this challenging, thus the search for a general model that connects and equates subjective formulations is needed
 
 ### Learning how to control complex systems
@@ -24,7 +24,7 @@ date: 2023-05-04
 ### Beyond extinction: rethinking biodiversity
 * Biodiversity is valuable because systems develop redundancies, maintaining function when stressed. Not all species/groups are the same and may have varying degrees of importance with respect to system health
 * Some ecosystems may have a keystone species (e.g., starfish) or a functional group (e.g., rhizobium bacteria). Erasing of this keystone results in the collapse of an ecosystem
-* This helps explain why gut biodiversity correlates with anti-inflammatory markers and good health metrics in general---more redundancies are introduced to address ecological issues
+* This helps explain why gut biodiversity correlates with anti-inflammatory markers and good health metrics in general---more redundancies are introduced that counter-balance ecological shortcomings
 
 ### The evolutionary dynamics of social organization in one self’s societies 
 * In insect colonies, how do specific roles get selected for? Worker ants are born sterile, and thus can’t directly reproduce. 
@@ -34,9 +34,9 @@ date: 2023-05-04
 
 ### Searching for the laws of life
 * The four billion year history of life on earth can likely be divided into two parts:
-    * For the first 2 million years, life likely got its energy not from the sun but from energy-rich molecules bubbling up from suboceanic volcanoes---as colonies of deep-ocean bacteria have been found to do this
-    * Molecules bubbling up from magma are a limited source, such that photosynthesis. Photosynthesis. Photosynthesis eventually emerged to store and use the sun’s abundant energy. Bacteria stored energy from light in the form of sugars, producing oxygen. Oxygen could later be used by other organisms to burn the same sugars to extract stored energy. Large scale adoption of this process transformed earth’s atmosphere into the oxygen abundant form we know today---powered by eating sugars and metabolizing them with atmospheric oxygen 
-        * In other words, photosynthesis enabled primitive volcanic metabolism to expand and fill the world by wrapping it in a chemical spacesuit, that allowed for the generation of food molecules via light
+    * For the first 2 million years, life likely got its energy not from the sun but from energy-rich molecules bubbling up from suboceanic volcanoes---as colonies of deep-ocean bacteria have been found lining thermal vents, far out of reach of solar energy
+    * Molecules bubbling up from magma are a limited source, such that photosynthesis eventually emerged to store and make use of abundant solar energy. Bacteria stored energy from light in the form of sugars, producing oxygen. Oxygen could later be used by other organisms to burn the same sugars to extract stored energy. Large scale adoption of the photosynthetic process transformed earth’s atmosphere into the oxygen abundant form we know today---powered by consuming sugars and metabolizing them with atmospheric oxygen 
+        * Photosynthesis enabled the primitive volcanic metabolism to escape the ocean depths, expanding and filling the world by wrapping it in a chemical spacesuit
 * In life there exists a hierarchical structure in which higher regulatory structures sharpen or direct lower level constructive processes. When this direction enhances the processes by which they are created, they are favoured by selection and become stable innovations in evolution. 
 * This emerging hierarchical structure serves to optimize metabolism, the process by which energy is used to source cellular processes, build more biomass (proteins, lipids, nucleic acids…) and the elimination of waste. This emergent optimization is not necessarily a global optimum but depends on the environment and other competing organisms
 
@@ -44,13 +44,15 @@ date: 2023-05-04
 * Essential feature of the metaphor: it intrudes from one domain to another. It borrows language, symbols, logic, and associations from one fields and imposes them upon another in which they do not properly belong. “War on drugs” maps from the military domain to the social domain
 * Metaphors can be used as a discovery device, allowing one to see something (target) from a different perspective (source), or as a communication tool, allowing one to describe complex phenomena with a well-known analogy
 * Metaphors can be a kind of de-slipping mechanism to give us grip on a slippery subject
+
 ### On time and risk
 * When considering a gamble: would you take a 1/6 chance to 100x your net worth, where if you fail you lose it all? The expected value of this gamble is 1531%, yet one’s intuition would avert them from this gamble
 * One thing to consider for risks is the time dimension - if given 100 attempts at this gamble, one might expect to come out on top due to the expected value. But the time dimension is irreversible - if you lose it all you can’t continue. A time average isn’t the same as an ensemble average in this case - making the risk especially more risky
+
 ### What biology can teach us about banking
-* Systems in which each bank handles a single asset class are more robust to risk as a whole, but individual banks are more risk prone, as failure of an asset means failure of that bank
-* Systems in which every bank handles a bit of every asset are more risk prone - if one bank fails due to the class distribution, they all fail as they hold the same assets. The individual banks, however, are more robust to risk as the assets are more diverse
-* Thus exists a push-pull relationship between system diversity and individual diversity, where selfish individual players will want to minimize their risk at the expense of the health of their system
+* _Systems_ in which each bank handles a single asset class are more robust to risk as a _whole_, but individual banks are more risk prone, as failure of an asset means failure of that bank
+* _Systems_ in which every bank handles a bit of every asset are more risk prone - if one bank fails due to the class distribution, they _all fail_, as they hold the same assets. The _individual banks_, however, are more robust to risk as the assets are more diverse
+* There thus exists a push-pull relationship between system diversity and individual diversity, where selfish individual players will want to minimize their risk at the expense of the health of their system
 * With respect to a biological system, if an ecosystem comprises of many different species with specific niche specializations, some will undoubtedly fail and become extinct, but the system as a whole will thrive. Whereas, in an ecosystem comprised of many different species with similarly broad yet shallow niche specialization, individual species are less at risk individually, but if one species fails - they all fail, and the ecosystem collapses
 
 ### Imagining complex societies
@@ -73,14 +75,16 @@ date: 2023-05-04
 ### A planet of cities
 * If you double the size of a city, you only need 80-90 percent more street surfaces, gas stations, etc. This is the concept of economies of scale 
 * The increase in population is nevertheless faster than the increase in land area, hence underground transportation and more congestion/construction in dense cities 
-* Increasing returns to scale is the fact that denser cities tend to be more productive---things cost most but people earn and produce more. Higher wages, faster innovation, more traffic, more crime
-* Cities form a stable social hierarchy that allows individuals to connect and interact at much faster timescales. Though, while as a whole the social system becomes more productive and efficient, many individuals suffer and are sacrificed, similar to a beehive. Increasing success of the group and cohesion comes at the cost of the individual
+* Increasing returns to scale is the fact that denser cities tend to be more productive---things cost more but people earn and produce more. Higher wages, faster innovation, more traffic, more crime
+* Cities form a stable social hierarchy that allows individuals to connect and interact at much faster timescales. While as a whole the social system becomes more productive and efficient, many individuals suffer and are sacrificed, similar to a beehive. Increasing success of the group and cohesion comes at the cost of the individual
+
 ### Are humans truly unique? How do we know
 * Energy is the fundamental currency of life, all species use energy to grow, survive, and reproduce
-* Human’s basic metabolic rate is about 100 watts, yet the average human in the United States consumes about 11000 watts (3000 global average) to do things such as construct infrastructure, fly planes, drive cars, and refrigerate foods
+* A human’s basic metabolic rate is about 100 watts, yet the average human in the United States consumes about 11000 watts (3000 is the global average) to do things such as construct infrastructure, fly planes, drive cars, and refrigerate foods
 * As such, the effective global population from an energetic point of view is closer to 210 billion rather than the current 7 billion
 * With respect to food networks, hunter-gatherer humans have been found to be super-generalists, eating hundreds of species, whereas a general species eats around 10 others. There are generally only a hand full of super generalists in the food web (i.e., raccoons)
 * The extreme scope and variability of our diet is unique, though in the industrialized modern world there exists a problem: when we over fish a bluefin tuna, the population of the diminished fish becomes more prized in value, incentivizing more fishing. Whereas, in the pre-modern world tuna would have the opportunity to re-populate
+
 ###Why people become terrorists
 * 3 characteristics common to perpetrators of terror in the West:
     * Young (~early 20s)
@@ -90,7 +94,7 @@ date: 2023-05-04
     * We use our own social milieu to make inferences about how people we don’t know live their lives. Those in richer neighbourhood perceive the income distribution as fairer than it really is and are thus less likely to support policies addressing the wealth gap
     * Social circles strongly influence our beliefs and behaviours. People will ignore objective facts if everyone else around them opposes them
     * We feel good when others agree with us and bad when they disagree, motivating us to try to influence disagreeing others, and if that fails to stop communicating with them altogether
-* A combination of exposure to dangerous ideas, either by the media or social contacts (think excessive nationalism or denigrating entire ethnic groups), belief updating in the form of accepting a dangerous idea if it aligns with personal experiences and is supported by those we value, and network updating in the form of ceasing socialization with those of differing views---lead to the threat of terrorism
+* A combination of exposure to dangerous ideas, either by the media or social contacts (think excessive nationalism or denigration of entire ethnic groups); belief updating in the form of accepting a dangerous idea if it aligns with personal experiences and is supported by those we value; and network updating in the form of ceasing socialization with those having differing views all lead to the threat of terrorism
 
 ### What can Mother Nature teach us about managing financial systems?
 * Life’s remarkable robustness is in large part dependent on variation; systems that suppress or lose their diversity are prone to collapse
