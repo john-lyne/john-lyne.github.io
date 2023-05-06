@@ -6,7 +6,7 @@ permalink: /booknotes/philosophy/
 date: 2023-05-06
 ---
 
-A collection of notes regarding to books read on Western philosophy.
+A collection of notes from books read on Western philosophy.
 
 # *Meditations*, Marcus Aurelius 
 A roman emporor's philosophical journal.
