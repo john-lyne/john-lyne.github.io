@@ -6,7 +6,7 @@ permalink: /booknotes/psychology/
 date: 2022-09-01
 ---
 
-A collection of notes regarding to books read on pyschology.
+A collection of notes from books read on pyschology.
 
 # *Happiness Hypothesis* by Jonathan Haidt, 2006
 A book about happiness that uses a clever metaphor to describe the conflict between primitive motives and conscious thought.
