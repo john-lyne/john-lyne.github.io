@@ -6,7 +6,7 @@ permalink: /booknotes/history/
 date: 2022-09-01
 ---
 
-A collection of notes regarding to books read on history.
+A collection of notes from books read on history.
 
 # *Guns, Germs, and Steel*, Jared Diamond 
 This book explores the question of why some regions of the world developed and expanded faster than others.
