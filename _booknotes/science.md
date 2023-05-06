@@ -6,7 +6,7 @@ permalink: /booknotes/science/
 date: 2023-05-06
 ---
 
-A collection of notes regarding to science-centered books.
+A collection of notes from science-centered books.
 
 # *Worlds Hidden in Plain Sight: Complexity Theory*, David Krakauer
 A collection of essays exploring everything complexity science. Subjects include the importance of biodiversity, hiearchichal system structures, why banking systems collapse, the importance of metaphors, the origin of life, and more.
