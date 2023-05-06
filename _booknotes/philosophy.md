@@ -16,4 +16,4 @@ A roman emporor's philosophical journal.
 # *The Enchiridion*, Epictetus
 Epictetus' philosophical notes.
 
-[Notes - Meditiations](https://john-lyne.github.io/booknotes/philosophy/enchiridion)
+[Notes - The Enchiridion](https://john-lyne.github.io/booknotes/philosophy/enchiridion)
