@@ -85,7 +85,7 @@ date: 2023-05-04
 * With respect to food networks, hunter-gatherer humans have been found to be super-generalists, eating hundreds of species, whereas a general species eats around 10 others. There are generally only a hand full of super generalists in the food web (i.e., raccoons)
 * The extreme scope and variability of our diet is unique, though in the industrialized modern world there exists a problem: when we over fish a bluefin tuna, the population of the diminished fish becomes more prized in value, incentivizing more fishing. Whereas, in the pre-modern world tuna would have the opportunity to re-populate
 
-###Why people become terrorists
+### Why people become terrorists
 * 3 characteristics common to perpetrators of terror in the West:
     * Young (~early 20s)
     * Resentment towards mainstream society because of perceived or real injustices they have experienced
