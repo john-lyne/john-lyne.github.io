@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Performance engineer for Bombardier's Global aircraft series. Aircraft performance is a function of aircraft weight and geometry, engine thrust, atmospheric properties, and particular condition (takeoff, landing, cruising) of the flight. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular in the case of engine failure. Optimizing performance reduces the costs of operating the aircraft, thus improved aircraft performance correlates positively with the price of aircraft.
+Performance engineer for Bombardier's Global aircraft series. Aircraft performance depends on aircraft weight and geometry; engine thrust; atmospheric properties; and the particular conditions of the flight, such as takeoff, landing, and cruise. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular for the case of engine failure. Performance engineers also work towards optimizing performance which reduces the costs of operating the aircraft. Improved aircraft performance correlates positively with the price of aircraft.
 
-<img src="/images/substack-icon.png" alt="drawing" width="100"/>
+<img src="/images/substack-icon.png" alt="drawing" width="50"/>
 
 I also write about topics I find interesting on my Substack. These topics include biology, physics, complex systems, psychology, history, and philosophy. Check it out [here](https://johnlyne.substack.com/).
 
@@ -44,7 +44,7 @@ Hobbies & Interests
 In my spare time I enjoy reading, writing, and playing chess. To remain active I strength train ~3 time per week and cardiovascular train ~3 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
 
 
-I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional; the powers exhibited by the main character are heavily influenced by fluids.
+I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional. And the powers exhibited by the main character, Tanjiro, are heavily influenced by fluids.
 
 <img src="/images/ds_gif.gif">
 
