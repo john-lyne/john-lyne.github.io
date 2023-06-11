@@ -27,3 +27,22 @@ Why you should aim to be a generalist. This book outlines the benefits of breadt
 Current scientific consensus on how to best improve learning outcomes.
 
 [Notes - Make it Stick](https://john-lyne.github.io/booknotes/science/stick)
+
+# *Consilience*, E.O. Wilson
+A book in which the author vouches for consilient acadmeia, especially in the humanities. Consilience is a “jumping together” of knowledge by linking facts and fact-based theory across disciplines to create a common groundwork of explanation.
+[Notes - Consilience](https://john-lyne.github.io/booknotes/science/consilience)
+
+# *The Social Conquest of Earth*, E.O. Wilson
+The social evolution of our species from the perspective of an entomologist who studied social insects. Really interesting if you're curious about human nature.
+
+[Notes - The Social Conquest of Earth](https://john-lyne.github.io/booknotes/science/conquest)
+
+# *Breath*, James Nestor
+Book all about the importance of breath, especially nosebreathing and avoiding mouthbreathing. Outlines the health benefits of proper breathing (something that we're always doing) and some breath work practices.
+
+[Notes - Breath](https://john-lyne.github.io/booknotes/science/breath)
+
+# *Starry Messenger*, Neil deGrasse Tyson
+A look at society from the perspective of an astrophysicist. Nice read if you're a techno-optimist and interested in neat scientific facts. Wasn't quite my cup of tea for whatever reason.
+
+[Notes - Starry Messenger](https://john-lyne.github.io/booknotes/science/starry)
