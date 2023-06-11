@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Performance engineer for Bombardier's Global aircraft series. Aircraft performance depends on aircraft weight and geometry; engine thrust; atmospheric properties; and the particular conditions of the flight, such as takeoff, landing, and cruise. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular for the case of engine failure. Performance engineers also work towards optimizing performance which reduces the costs of operating the aircraft. Improved aircraft performance correlates positively with the price of aircraft.
+Performance engineer for Bombardier's Global aircraft series. Aircraft performance depends on aircraft weight and geometry; engine thrust; atmospheric properties; and the particular conditions of the flight, such as takeoff, landing, and cruise. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular for the case of engine failure. Performance engineers also work towards optimizing performance, which reduces the costs of operating the aircraft.
 
 <img src="/images/substack-icon.png" alt="drawing" width="50"/>
 
