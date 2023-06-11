@@ -41,6 +41,6 @@ One of the earlier books on evolutionary psychology. How evolution has shaped ou
 [Notes - The Moral Animal](https://john-lyne.github.io//booknotes/psychology/moral_animal)
 
 # *The Righteous Mind* by Jonathan Haidt
-A book about moral psychology, Jonathan's principle area of research, about why it can be so hard from people of differing backgrounds to see eye to eye, the pillars of morality, and more.
+A book about moral psychology, Jonathan's principle area of research, about why it can be so hard from people of differing backgrounds to see eye to eye, the pillars of morality, what influences us to be more conserviative or more liberal, and more.
 
 [Notes - The Righteous Mind](https://john-lyne.github.io//booknotes/psychology/righteous)
