@@ -29,7 +29,7 @@ Current scientific consensus on how to best improve learning outcomes.
 [Notes - Make it Stick](https://john-lyne.github.io/booknotes/science/stick)
 
 # *Consilience*, E.O. Wilson
-A book in which the author vouches for consilient acadmeia, especially in the humanities. Consilience is a “jumping together” of knowledge by linking facts and fact-based theory across disciplines to create a common groundwork of explanation.
+A book in which the author vouches for consilient academia, especially in the humanities. Consilience is a “jumping together” of knowledge by linking facts and fact-based theory across disciplines to create a common groundwork of explanation.
 [Notes - Consilience](https://john-lyne.github.io/booknotes/science/consilience)
 
 # *The Social Conquest of Earth*, E.O. Wilson
