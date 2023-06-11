@@ -30,6 +30,7 @@ Current scientific consensus on how to best improve learning outcomes.
 
 # *Consilience*, E.O. Wilson
 A book in which the author vouches for consilient academia, especially in the humanities. Consilience is a “jumping together” of knowledge by linking facts and fact-based theory across disciplines to create a common groundwork of explanation.
+
 [Notes - Consilience](https://john-lyne.github.io/booknotes/science/consilience)
 
 # *The Social Conquest of Earth*, E.O. Wilson
@@ -43,6 +44,6 @@ Book all about the importance of breath, especially nosebreathing and avoiding m
 [Notes - Breath](https://john-lyne.github.io/booknotes/science/breath)
 
 # *Starry Messenger*, Neil deGrasse Tyson
-A look at society from the perspective of an astrophysicist. Nice read if you're a techno-optimist and interested in neat scientific facts. Wasn't quite my cup of tea for whatever reason.
+A look at society from the perspective of an astrophysicist. Nice read if you're a techno-optimist and interested in neat scientific facts.
 
 [Notes - Starry Messenger](https://john-lyne.github.io/booknotes/science/starry)
