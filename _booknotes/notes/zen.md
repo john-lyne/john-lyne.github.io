@@ -14,5 +14,5 @@ date: 2023-05-04
     * The notion of “living being”: we are composed and dependent on inanimate matter as well---minerals, molecules, atoms. Life is contingent on these things, thus the preference for living over non-living can be unhelpful 
     * The notion of “life span”: when we die, we don’t really die, we just transform into something else. Likewise, within us live the genes of ancestors dating back to the creation of life billions of years ago. 
 * Three basic needs: peace, understanding, and love. To cultivate in any situation a feeling of peace, understanding, and compassion allows for disillusioned and positive action
-* When suffering, get in touch with it. Do not cover it up with media, games, or alcohol. Ask why you are suffering, and where it has come from. Recognize it and hold it inside---look deeply into it and say “hello and say “hello my fear, anger, and despair. I will take good care of you.”
+* When suffering, get in touch with it. Do not cover it up with media, games, or alcohol. Ask why you are suffering, and where it has come from. Recognize it and hold it inside---look deeply into it and say “hello my fear, anger, and despair. I will take good care of you.”
 * The mechanics of compassion: when suffering, look deeply into its nature and develop an understanding of it, and follow with a compassion towards the suffering
