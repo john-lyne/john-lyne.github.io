@@ -2,7 +2,7 @@
 title: "Meditations"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/philosophy/meditations
+permalink: /booknotes/westphilosophy/meditations
 date: 2023-05-04
 ---
 
