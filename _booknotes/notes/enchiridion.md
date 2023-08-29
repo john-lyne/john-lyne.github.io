@@ -2,7 +2,7 @@
 title: "The Enchiridion"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/philosophy/enchiridion
+permalink: /booknotes/westphilosophy/enchiridion
 date: 2023-05-04
 ---
 
