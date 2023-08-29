@@ -2,7 +2,7 @@
 title: "Zen and the Art of Saving the Planet"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/buddhism/zen
+permalink: /booknotes/eastphilosophy/zen
 date: 2023-05-04
 ---
 
