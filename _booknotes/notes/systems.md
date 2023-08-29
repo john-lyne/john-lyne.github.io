@@ -1,3 +1,11 @@
+---
+title: "Thinking in Systems"
+collection: booknotes
+type: "Guide"
+permalink: /booknotes/science/systems
+date: 2023-08-29
+---
+
 # Thinking in Systems, *Donella H. Meadows*
 *	If we consider that a system causes its own behaviour, we need to consider that politicians don’t cause recessions or booms; oil-exporting nations are not solely responsible for oil prices—consumers are as well; and pathogens do not solely attack you, but you set up conditions for them to flourish within you
 *	A diverse system with multiple pathways and redundancies is more stable and less vulnerable to external shock than a uniform system with little diversity
