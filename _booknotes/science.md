@@ -56,4 +56,4 @@ Masterclass on how to think with a systems lens. This will change the way you th
 # *Why We Get Sick, The new science of Darwinian medicine* (1996), Nesse & Williams
 Exceptional application of darwinian insight to understanding our physiology, exploring the questions of why we get sick, why we age, why we evolved to reproduce sexually (rather than asexually), and much more. Expands on the limitations of traditional medicine on treating proximate causes rather than ultimate causes. Very interesting and still applicable almost 30 years later; this will change how you view modern medicine.
 
-[Notes - Thinking in Systems](https://john-lyne.github.io/booknotes/science/sick)
+[Notes - Why We Get Sick](https://john-lyne.github.io/booknotes/science/sick)
