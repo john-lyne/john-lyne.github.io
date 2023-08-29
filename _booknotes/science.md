@@ -44,6 +44,16 @@ Book all about the importance of breath, especially nosebreathing and avoiding m
 [Notes - Breath](https://john-lyne.github.io/booknotes/science/breath)
 
 # *Starry Messenger*, Neil deGrasse Tyson
-A look at society from the perspective of an astrophysicist. Nice read if you're a techno-optimist and interested in neat scientific facts.
+A look at society from the perspective of an astrophysicist. Not my favorite, to be honest. Still a nice read if you're a techno-optimist and interested in neat scientific facts.
 
 [Notes - Starry Messenger](https://john-lyne.github.io/booknotes/science/starry)
+
+# *Thinking in Systems*, Donella H. Meadows
+Masterclass on how to think with a systems lens. This will change the way you think, and consequently how you view the world around you.
+
+[Notes - Thinking in Systems](https://john-lyne.github.io/booknotes/science/systems)
+
+# *Why We Get Sick, The new science of Darwinian medicine* (1996), Nesse & Williams
+Exceptional application of darwinian insight to understanding our physiology, exploring the questions of why we get sick, why we age, why we evolved to reproduce sexually (rather than asexually), and much more. Expands on the limitations of traditional medicine on treating proximate causes rather than ultimate causes. Very interesting and still applicable almost 30 years later; this will change how you view modern medicine.
+
+[Notes - Thinking in Systems](https://john-lyne.github.io/booknotes/science/sick)
