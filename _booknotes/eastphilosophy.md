@@ -22,3 +22,8 @@ The workings of the mind from a buddhist perspective, courtesy of seasoned Zen m
 More buddhist philosophy, and how to approach the tumultuous world of today with compassion, acceptance, and curiosity.
 
 [Notes - Zen and the Art of Saving the Planet](https://john-lyne.github.io/booknotes/eastphilosophy/zen)
+
+# *The Analects of Confucius*
+Confucian philosphy. Timeless insights such as "Rotten wood cannot be carved" and "[to] avoid burglary, build up qualities that cannot be stolen, rather than ostentatious material goods that can be."
+
+[Notes - The Analects of Confucius](https://john-lyne.github.io/booknotes/eastphilosophy/analects)
