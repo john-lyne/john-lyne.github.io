@@ -2,7 +2,7 @@
 title: "Understanding Our Mind"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/buddhism/mind
+permalink: /booknotes/eastphilosophy/mind
 date: 2023-05-04
 ---
 
