@@ -2,7 +2,7 @@
 title: "Why Buddhism is True"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/buddhism/why_buddhism_is_true
+permalink: /booknotes/eastphilosophy/why_buddhism_is_true
 date: 2022-12-31
 ---
 # *Why Buddhism is True, Robert Wright*
