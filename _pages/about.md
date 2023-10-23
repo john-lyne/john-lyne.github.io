@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Performance engineer for Bombardier's Global aircraft series. Aircraft performance depends on aircraft weight and geometry; engine thrust; atmospheric properties; and the particular conditions of the flight, such as takeoff, landing, and cruise. Performance engineers define the operational capabliltes and ensure the safe operation of aircraft, in particular for the case of engine failure. Performance engineers also work towards optimizing performance, which reduces the costs of operating the aircraft.
+Aircraft performance engineer for Bombardier's Global aircraft series. Aircraft performance depends on aircraft weight and geometry; engine thrust; atmospheric properties; and the particular conditions of the flight, such as takeoff, landing, and cruise. Performance engineers define the operational capabliltes and ensure safe aircraft operation, in particular for the case of engine failure. Performance engineers also work towards optimizing performance, which reduces operation costs.
 
 <img src="/images/substack-icon.png" alt="drawing" width="50"/>
 
@@ -16,9 +16,9 @@ I also write about topics I find interesting on my Substack. These topics includ
 
 Education
 ======
-I obtained my undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta. During my undergraduate degree I accumulated internship experience in the energy, industrial construction, and commercial aviation industries. As a graduate student I pursued a MASc. in Systems Design Engineering at the University of Waterloo.
+Undergraduate degree in the Mechanical Engineering Co-operative Program from the University of Alberta. During which, internship experience was gained in the energy, industrial construction, and commercial aviation industries.
 
-My research interests laid at the intersection between machine learning and fluid dynamics. In other words, the goal was to leverage the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employ data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations.
+MASc. in Systems Design Engineering at the University of Waterloo. Research interests laid at the intersection between machine learning and fluid dynamics. The goal of the research was to leverage the dense spatio-temporal datasets produced by direct numerical simulations of fluid flow, and employ data driven learning algorithms to develop a better understanding of the turbulent phenomena present in these simulations.
 
 ### September 2020 - December 2022
 
@@ -41,7 +41,7 @@ My research interests laid at the intersection between machine learning and flui
  
 Hobbies & Interests
 ---
-In my spare time I enjoy reading, writing, and playing chess. To remain active I strength train ~3 time per week and cardiovascular train ~3 times per week. I like to bake as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
+I enjoy reading, writing, and playing chess. To remain active I strength train ~3 times per week and cardiovascular train ~1-2 times per week. I enjoy baking as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
 
 
 I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional. And the powers exhibited by the main character, Tanjiro, are heavily influenced by fluids.
