@@ -30,4 +30,5 @@ Confucian philosphy. Timeless insights such as "Rotten wood cannot be carved" an
 
 # *Awakening the Buddha Within*, Lama Surya Das
 Lessons on the Buddhist canon by a man from New York who, upon finding himself in Nepal, stumbled upon his spiritual home. Very digestible interpretation of Buddhist philosophy for readers of a Western background.
+
 [Notes - Awakening the Buddha Within](https://john-lyne.github.io/booknotes/eastphilosophy/within)
