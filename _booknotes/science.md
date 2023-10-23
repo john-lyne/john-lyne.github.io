@@ -57,3 +57,13 @@ Masterclass on how to think with a systems lens. This will change the way you th
 Exceptional application of darwinian insight to understanding our physiology, exploring the questions of why we get sick, why we age, why we evolved to reproduce sexually (rather than asexually), and much more. Expands on the limitations of traditional medicine on treating proximate causes rather than ultimate causes. Very interesting and still applicable almost 30 years later; this will change how you view modern medicine.
 
 [Notes - Why We Get Sick](https://john-lyne.github.io/booknotes/science/sick)
+
+# *The Origin of Species*, Charles Darwin
+The GOAT.
+
+[Notes - The Origin of Species](https://john-lyne.github.io/booknotes/science/origin)
+
+# *A World Beyond Physics*, Stephen Kauffman
+A challenge to conventional physics to help explain the origin of life.
+
+[Notes - A World Beyond Physics](https://john-lyne.github.io/booknotes/science/beyond)
