@@ -12,7 +12,7 @@ Aircraft performance engineer for Bombardier's Global aircraft series. Aircraft 
 
 <img src="/images/substack-icon.png" alt="drawing" width="50"/>
 
-I also write about topics I find interesting on my Substack. These topics include biology, physics, complex systems, psychology, history, and philosophy. Check it out [here](https://johnlyne.substack.com/).
+I also write on Substack. Topics of relevance include biology, physics, complex systems, psychology, history, and philosophy. Check it out [here](https://johnlyne.substack.com/). The fuel that feeds this fire are books; book notes of mine are recorded [here](https://john-lyne.github.io/booknotes/).
 
 Education
 ======
