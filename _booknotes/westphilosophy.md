@@ -17,3 +17,8 @@ A roman emporor's philosophical journal.
 Epictetus' philosophical notes.
 
 [Notes - The Enchiridion](https://john-lyne.github.io/booknotes/westphilosophy/enchiridion)
+
+# *How To Be a Stoic*, Massimo Pigliucci
+How to guide on stoic philosophy. Well written.
+
+[Notes - How To Be a Stoic](https://john-lyne.github.io/booknotes/westphilosophy/how2stoic)
