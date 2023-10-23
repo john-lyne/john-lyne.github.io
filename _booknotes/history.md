@@ -22,3 +22,9 @@ This book sees how religion evolved alongside humans, from hunter gatherer tribe
 Historical analysis of wealth inequality in societies, and their seemingly inevitable rebalancing that tend to point back to one of four "levelers": mass mobilization warfare, transformative revolution, state failure, and lethal pandemics. Interestingly, a trend that has occured consitenly in historical records is the fact that the more peaceful a society, the higher wealth inequality within its population.
 
 [Notes - The Great Leveler](https://john-lyne.github.io/booknotes/history/leveler)
+
+# *Civilization*, Niall Ferguson
+Clear and compelling historical account of why Western civilization pulled ahead of other competing civilizations.
+
+[Notes - Civilization](https://john-lyne.github.io/booknotes/history/civilization)
+
