@@ -27,3 +27,7 @@ More buddhist philosophy, and how to approach the tumultuous world of today with
 Confucian philosphy. Timeless insights such as "Rotten wood cannot be carved" and "[to] avoid burglary, build up qualities that cannot be stolen, rather than ostentatious material goods that can be."
 
 [Notes - The Analects of Confucius](https://john-lyne.github.io/booknotes/eastphilosophy/analects)
+
+# *Awakening the Buddha Within*, Lama Surya Das
+Lessons on the Buddhist canon by a man from New York who, upon finding himself in Nepal, stumbled upon his spiritual home. Very digestible interpretation of Buddhist philosophy for readers of a Western background.
+[Notes - Awakening the Buddha Within](https://john-lyne.github.io/booknotes/eastphilosophy/within)
