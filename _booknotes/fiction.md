@@ -14,6 +14,11 @@ The Ministry for the Future is a novel set in the near future which describes th
 [Notes - The Ministry for the Future](https://john-lyne.github.io/booknotes/fiction/ministry)
 
 # *Crime and Punishment*, Fyodor Dostoevsky
-Incredible.
+What happens when we think we can brute-force our way out of anti-social behaviour with reason?
 
 [Notes - Crime and Punishment](https://john-lyne.github.io/booknotes/fiction/candp)
+
+# *The Brothers Karamazov*, Fyodor Dostoevsky
+Skillfull exposee on human nature.
+
+[Notes - The Brothers Karamazov](https://john-lyne.github.io/booknotes/fiction/brothers)
