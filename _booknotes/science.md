@@ -67,3 +67,8 @@ The GOAT.
 A challenge to conventional physics to help explain the origin of life.
 
 [Notes - A World Beyond Physics](https://john-lyne.github.io/booknotes/science/beyond)
+
+# *Drunk*, Edward Slingerland
+Book exploring the history of alcohol and its role in the flourishing of a social speecies. I was more pessimistic about alcohol prior to reading this; despite the obvious costs, when we look deeper there is a case to be made about alcohol's value. Recommend.
+
+[Notes - Drunk](https://john-lyne.github.io/booknotes/science/drunk)
