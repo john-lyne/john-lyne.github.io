@@ -22,3 +22,17 @@ What happens when we think we can brute-force our way out of anti-social behavio
 Skillfull exposee on human nature.
 
 [Notes - The Brothers Karamazov](https://john-lyne.github.io/booknotes/fiction/brothers)
+
+# *Dante’s Inferno*, Dante Alighieri (1901 translation)
+Follow a man as he descends the depths of hell.
+
+[Notes - Dante’s Inferno](https://john-lyne.github.io/booknotes/fiction/dante)
+
+# *Ramayana*, Valmiki
+An ancient Hindu epic describing the life of an exiled young prince and his battle with the Demon King.
+[Notes - Ramayana](https://john-lyne.github.io/booknotes/fiction/ramayana)
+
+# *The Alchemist*, Paulo Coelho
+A young shepherd follows his heart, taking him on a journey where something is made of nothing.
+
+[Notes - The Alchemist](https://john-lyne.github.io/booknotes/fiction/alchemist)
