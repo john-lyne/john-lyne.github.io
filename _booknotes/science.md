@@ -73,6 +73,12 @@ Book exploring the history of alcohol and its role in the flourishing of a socia
 
 [Notes - Drunk](https://john-lyne.github.io/booknotes/science/drunk)
 
+# *Behave*, Robert Sapolsky
+This book is all about human behaviour. The thrust of this book is to invoke the various timescales that precede that behaviour (seconds to hours to weeks to millenia before the behaviour), and to connect the scientific disciplines (neurobiology, biochemistry, endocrinology, evolutionary biology, etc.) into a consilient whole to explain why we do things.
+
+[Notes - Behave](https://john-lyne.github.io/booknotes/science/behave)
+
+
 # *Cosmos*, Carl Sagan
 Wonderful interdesciplinary exhibit on the expansive universal system we find ourselves floating through: the cosmos.
 
