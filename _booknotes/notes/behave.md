@@ -3,7 +3,7 @@ title: "Behave"
 collection: booknotes
 type: "Guide"
 permalink: /booknotes/science/behave
-date: 2023-04-23
+date: 2024-04-23
 ---
 
 # *Behave*, Robert Sapolsky
