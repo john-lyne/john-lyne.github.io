@@ -32,3 +32,8 @@ Confucian philosphy. Timeless insights such as "Rotten wood cannot be carved" an
 Lessons on the Buddhist canon by a man from New York who, upon finding himself in Nepal, stumbled upon his spiritual home. Very digestible interpretation of Buddhist philosophy for readers of a Western background.
 
 [Notes - Awakening the Buddha Within](https://john-lyne.github.io/booknotes/eastphilosophy/within)
+
+# *Zen and the Art of Motorcycle Maintenance*, Robert Pirsig
+Join Robert and his son on a motorcycle trip across America, as Robert exceptional ties together Western and Eastern philosophy. Really good.
+
+[Notes - Zen and the Art of Motorcycle Maintenance](https://john-lyne.github.io/booknotes/eastphilosophy/zen_mm)
