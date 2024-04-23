@@ -3,7 +3,7 @@ title: "Dante's Inferno"
 collection: booknotes
 type: "Guide"
 permalink: /booknotes/fiction/dante
-date: 2023-04-23
+date: 2024-04-23
 ---
 
 # *Dante’s Inferno*, Dante Alighieri (13/14th century BCE) (1901 translation)
