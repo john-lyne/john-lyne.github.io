@@ -1,5 +1,5 @@
 ---
-title: "The Brothers Karamazov"
+title: "Zen and the Art of Motorcycle Maintenance"
 collection: booknotes
 type: "Guide"
 permalink: /booknotes/eastphilosophy/zenmm
