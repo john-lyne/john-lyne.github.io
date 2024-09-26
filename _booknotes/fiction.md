@@ -36,3 +36,10 @@ An ancient Hindu epic describing the life of an exiled young prince and his batt
 A young shepherd follows his heart, taking him on a journey where something is made of nothing.
 
 [Notes - The Alchemist](https://john-lyne.github.io/booknotes/fiction/alchemist)
+
+# *War and Peace*, Leo Tolstoy
+One of the best books I've ever read.
+
+[Notes - War and Peace](https://john-lyne.github.io/booknotes/fiction/warandpeace)
+
+
