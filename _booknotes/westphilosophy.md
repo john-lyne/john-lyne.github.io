@@ -28,3 +28,8 @@ Eric Hoffer was a self-educated layman, and his books awarded him multiple honor
 One of the best books I've ever read. Short and sweet, I gobbled this one up in a few days. I took notes for practically every page. 
 
 [Notes - The True Believer](https://john-lyne.github.io/booknotes/westphilosophy/true_believer)
+
+# *Finite and Infinite Games*, James P. Carse (1986)
+A philosphical masterclass on the consequences of what it means to play a game to win versus to play a game to keep playing.
+
+[Notes - Finite and Infinite Games](https://john-lyne.github.io/booknotes/westphilosophy/finiteinfinite)
