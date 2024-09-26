@@ -44,3 +44,8 @@ One of the earlier books on evolutionary psychology. How evolution has shaped ou
 A book about moral psychology, Jonathan's principle area of research, about why it can be so hard from people of differing backgrounds to see eye to eye, the pillars of morality, what influences us to be more conserviative or more liberal, and more.
 
 [Notes - The Righteous Mind](https://john-lyne.github.io//booknotes/psychology/righteous)
+
+# *Noise* by Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein
+A book exploring errors in judgment associated with noise, i.e., variability. Many focus on bias, because it's clear when bias misses the mark. Noise is messier and more elusive, making it a more difficult foe. If an identical case is judged differently by different people in the criminal justice system, is that acceptable? If the same judge changes the flavor of their judgmenets depending on time of day, is that acceptable? If we can accept that this variation is unacceptable, how do we go about reducing noise?
+
+[Notes - Noise](https://john-lyne.github.io/booknotes/psychology/noise)
