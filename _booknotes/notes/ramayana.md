@@ -2,7 +2,7 @@
 title: "Ramayana"
 collection: booknotes
 type: "Guide"
-permalink: /booknotes/fiction/ramayana
+permalink: /booknotes/eastphilosophy/ramayana
 date: 2024-04-23
 ---
 
