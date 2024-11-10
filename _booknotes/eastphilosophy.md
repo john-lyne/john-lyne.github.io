@@ -37,3 +37,9 @@ Lessons on the Buddhist canon by a man from New York who, upon finding himself i
 Join Robert and his son on a motorcycle trip across America, as Robert exceptional ties together Western and Eastern philosophy. Really good.
 
 [Notes - Zen and the Art of Motorcycle Maintenance](https://john-lyne.github.io/booknotes/eastphilosophy/zenmm)
+
+# *Ramayana*, Valmiki
+An ancient Hindu epic describing the life of an exiled young prince and his battle with a Demon King.
+
+[Notes - Ramayana](https://john-lyne.github.io/booknotes/eastphilosophy/ramayana)
+
