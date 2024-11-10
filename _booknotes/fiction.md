@@ -28,11 +28,6 @@ Follow a man as he descends the depths of hell.
 
 [Notes - Dante’s Inferno](https://john-lyne.github.io/booknotes/fiction/dante)
 
-# *Ramayana*, Valmiki
-An ancient Hindu epic describing the life of an exiled young prince and his battle with the Demon King.
-
-[Notes - Ramayana](https://john-lyne.github.io/booknotes/fiction/ramayana)
-
 # *The Alchemist*, Paulo Coelho
 A young shepherd follows his heart, taking him on a journey where something is made of nothing.
 
