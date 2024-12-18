@@ -10,11 +10,9 @@ redirect_from:
 
 Aircraft performance engineer at Bombardier.
 
-<img src="/images/substack-icon.png" alt="drawing" width="50"/>
+I also write on **Substack**. Topics of relevance include philosophy, biology, physics, complex systems, psychology, history, and literature. Check it out [here](https://johnlyne.substack.com/).
 
-I also write on Substack. Topics of relevance include biology, physics, complex systems, psychology, history, and philosophy. Check it out [here](https://johnlyne.substack.com/).
-
-The fuel that feeds my writing are, in part, books; book notes of mine are recorded [here](https://john-lyne.github.io/booknotes/).
+Reading fuels my writing. Book notes of mine are recorded [here](https://john-lyne.github.io/booknotes/).
 
 Education
 ======
@@ -43,13 +41,7 @@ MASc. in Systems Design Engineering at the University of Waterloo. Research inte
  
 Hobbies & Interests
 ---
-I enjoy reading, writing, and playing chess. To remain active I strength train ~3 times per week and cardiovascular train ~1-2 times per week. I enjoy baking as well, with pumpkin spice cupcakes and apple pies having recently been added to my culinary resume. I am also learning Tagalog, though hindi ako marunong mag-tagalog mabuti.
-
-
-I also enjoy watching anime, among my favourite shows is Demon Slayer. The art in this show is exceptional. And the powers exhibited by the main character, Tanjiro, are heavily influenced by fluids.
-
-<img src="/images/ds_gif.gif">
-
+I enjoy reading, writing, and my daily walk through the park. I've maintained a strength training practice over the last decade and have cultivated a meditation practice for the past few years.
 
 Fluid Dynamics Art
 ---
