@@ -48,3 +48,8 @@ When do we *know* something? What makes a belief a belief? Where does doubt fit 
 What does it mean to be beyond good and evil?
 
 [Notes - Beyond Good and Evil](https://john-lyne.github.io/booknotes/westphilosophy/beyond_g_and_e)
+
+# *The Consolation of Philosophy*, Boethius
+A man down horrendously, exiled and sentenced to death, gets consoled by Lady Philosophy.
+
+[Notes - The Consolation of Philosophy](https://john-lyne.github.io/booknotes/westphilosophy/boethius)
