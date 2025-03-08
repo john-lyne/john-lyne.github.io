@@ -34,6 +34,11 @@ A philosphical masterclass on the consequences of what it means to play a game t
 
 [Notes - Finite and Infinite Games](https://john-lyne.github.io/booknotes/westphilosophy/finiteinfinite)
 
+# *Republic*, Plato (Translated by Christopher Rowe)
+What is justice? How do we organize ourselves and our cities with justice in mind? What type of constitution leads to the mutual thriving of the individual and the whole?
+
+[Notes - Republic](https://john-lyne.github.io/booknotes/westphilosophy/republic)
+
 # *On Certainty*, Ludwig Wittgenstein
 When do we *know* something? What makes a belief a belief? Where does doubt fit in? Can we ever be *truly* certain?
 
