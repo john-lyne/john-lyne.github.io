@@ -38,8 +38,12 @@ Join Robert and his son on a motorcycle trip across America, as Robert exception
 
 [Notes - Zen and the Art of Motorcycle Maintenance](https://john-lyne.github.io/booknotes/eastphilosophy/zenmm)
 
-# *Ramayana*, Valmiki
+# *Ramayana*, Retold by William Buck
 An ancient Hindu epic describing the life of an exiled young prince and his battle with a Demon King.
 
 [Notes - Ramayana](https://john-lyne.github.io/booknotes/eastphilosophy/ramayana)
 
+# *The Tao of Physics*, Fritjof Capra
+The story of how eastern religion and western quantum physics dovetailed in the early 20th century.
+
+[Notes - Tao of Physics](https://john-lyne.github.io/booknotes/eastphilosophy/tao_physics)
