@@ -43,7 +43,27 @@ An ancient Hindu epic describing the life of an exiled young prince and his batt
 
 [Notes - Ramayana](https://john-lyne.github.io/booknotes/eastphilosophy/ramayana)
 
+# *Mahabharata*, Retold by William Buck
+An ancient Hindu epic describing the life of an exiled group of princes and their battle with their cousins.
+
+[Notes - Ramayana](https://john-lyne.github.io/booknotes/eastphilosophy/mahabharata)
+
+# *Bhagavad Ghita*, translated by Steven Mitchell
+Bhagavad Ghita means “The Song of the Blessed One”. In this song, Krishna acts as an elder kinsman that tells his people (through Arjuna) truths they already, though imperfectly, know.
+
+[Notes - Bhagavad Ghita](https://john-lyne.github.io/booknotes/eastphilosophy/gita)
+
 # *The Tao of Physics*, Fritjof Capra
 The story of how eastern religion and western quantum physics dovetailed in the early 20th century.
 
 [Notes - Tao of Physics](https://john-lyne.github.io/booknotes/eastphilosophy/tao_physics)
+
+# *Coming to Our Senses*, Jon Kabat-Zinn
+This book invites us to come to our senses - it invites us to wake up from the dream of our self-absorption and our endless spinning out of stories that distance us from what is actually happening in these moments that add up to what we call our life.
+
+[Notes - Coming to Our Senses](https://john-lyne.github.io/booknotes/eastphilosophy/senses)
+
+# *Creativity and Taoism*, Chang Chung-yuan
+The path to enrichment must be done through a shining of conscious light on the unconscious, on the, as Carl Jung puts it, the “union of opposites through the middle path, that most fundamental item of inward experience, which could respectably be set against the Chinese concept of Tao.”
+
+[Notes - Creativity and Taoism](https://john-lyne.github.io/booknotes/eastphilosophy/creative_tao)
