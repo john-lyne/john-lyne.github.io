@@ -28,6 +28,11 @@ Follow Dante as he descends the depths of hell.
 
 [Notes - Dante’s Inferno](https://john-lyne.github.io/booknotes/fiction/dante)
 
+# *Dante’s Purgatorio*, Dante Alighieri (translated by Allen Mandelbaum)
+Follow Dante as he ascends Mount Purgatory.
+
+[Notes - Dante’s Purgatorio](https://john-lyne.github.io/booknotes/fiction/purgatory)
+
 # *The Alchemist*, Paulo Coelho
 A young shepherd follows his heart, taking him on a journey where something is made of nothing.
 
@@ -38,7 +43,7 @@ One of the best books I've ever read.
 
 [Notes - War and Peace](https://john-lyne.github.io/booknotes/fiction/warandpeace)
 
-# *Dante’s Purgatorio*, Dante Alighieri (translated by Allen Mandelbaum)
-Follow Dante as he ascends Mount Purgatory.
+# *The Iliad*, Homer (Emily Wilson translation)
+Ancient Greek epic.
 
-[Notes - Dante’s Purgatorio](https://john-lyne.github.io/booknotes/fiction/purgatory)
+[Notes - The Iliad](https://john-lyne.github.io/booknotes/fiction/iliad)
