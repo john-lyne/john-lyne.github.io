@@ -1,12 +1,12 @@
 ---
-title: "Fiction"
+title: "Literature"
 collection: booknotes
 type: "Section"
 permalink: /booknotes/fiction/
 date: 2023-10-22
 ---
 
-A collection of notes from fictional books. Although, isn't everything fictional to some extent? Can fact and fiction ever be disentangled?
+Literature/fiction.
 
 # *The Ministry for the Future*, Kim Robinson
 The Ministry for the Future is a novel set in the near future which describes the disastrous consequences of a warming planet and the steps humanity takes to mitigate them. It is ultimately an optimistic story about technological and political innovation.
@@ -24,7 +24,7 @@ Skillfull exposee on human nature.
 [Notes - The Brothers Karamazov](https://john-lyne.github.io/booknotes/fiction/brothers)
 
 # *Dante’s Inferno*, Dante Alighieri (1901 translation)
-Follow a man as he descends the depths of hell.
+Follow Dante as he descends the depths of hell.
 
 [Notes - Dante’s Inferno](https://john-lyne.github.io/booknotes/fiction/dante)
 
@@ -38,4 +38,7 @@ One of the best books I've ever read.
 
 [Notes - War and Peace](https://john-lyne.github.io/booknotes/fiction/warandpeace)
 
+# *Dante’s Purgatorio*, Dante Alighieri (translated by Allen Mandelbaum)
+Follow Dante as he ascends Mount Purgatory.
 
+[Notes - Dante’s Purgatorio](https://john-lyne.github.io/booknotes/fiction/purgatory)
