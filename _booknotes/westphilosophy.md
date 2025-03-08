@@ -33,3 +33,13 @@ One of the best books I've ever read. Short and sweet, I gobbled this one up in 
 A philosphical masterclass on the consequences of what it means to play a game to win versus to play a game to keep playing.
 
 [Notes - Finite and Infinite Games](https://john-lyne.github.io/booknotes/westphilosophy/finiteinfinite)
+
+# *On Certainty*, Ludwig Wittgenstein
+When do we *know* something? What makes a belief a belief? Where does doubt fit in? Can we ever be *truly* certain?
+
+[Notes - On Certainty](https://john-lyne.github.io/booknotes/westphilosophy/on_certainty)
+
+# *Beyond Good and Evil*, Friedrich Nietzsche
+What does it mean to be beyond good and evil?
+
+[Notes - Beyond Good and Evil](https://john-lyne.github.io/booknotes/westphilosophy/beyond_g_and_e)
