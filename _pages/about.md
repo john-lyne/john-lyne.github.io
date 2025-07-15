@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Aircraft performance engineer at Bombardier.
+Aircraft performance engineer.
 
-I also write on **Substack**. Topics include philosophy, biology, physics, complex systems, psychology, history, and literature. Check it out [here](https://johnlyne.substack.com/). The publication is called *In Finity*, [here's a bit about how I came up with this name](https://johnlyne.substack.com/p/in-finity).
+I also write on [Substack](https://johnlyne.substack.com/) for a publication I've called *In Finity*. [Here's how I came up with the name](https://johnlyne.substack.com/p/in-finity).
 
-Reading fuels my writing. I record my book notes [here](https://john-lyne.github.io/booknotes/).
+I record my reading notes [here](https://john-lyne.github.io/booknotes/).
 
 Education
 ======
@@ -35,4 +35,4 @@ Education
 
 Hobbies & Interests
 ---
-I enjoy reading, writing, and my daily walk through the park. I've maintained a strength training practice for the last decade and have cultivated a meditation practice over the past few years.
+I enjoy reading, writing, and my daily park walk. I've maintained a strength training practice for the last decade. Lately I've grown more interested in calisthenics, gymnastic ring work in particular.
