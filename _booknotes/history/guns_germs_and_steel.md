@@ -5,7 +5,7 @@ collection: booknotes
 category: history
 type: Guide
 permalink: /booknotes/history/guns_germs_and_steel
-date: '2022'
+date: December 2022
 ---
 
 This book explores the question of why some regions of the world developed and expanded faster than others.

@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/why_buddhism_is_true
-date: '2022'
+date: December 2022
 ---
 
 ### Chapter 1: Taking the red pill

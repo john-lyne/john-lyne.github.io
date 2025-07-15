@@ -5,7 +5,7 @@ collection: booknotes
 category: history
 type: Guide
 permalink: /booknotes/history/the_prize
-date: '2024'
+date: December 2024
 ---
 
 ### Part 1: The founders

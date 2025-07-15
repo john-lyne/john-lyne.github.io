@@ -5,7 +5,7 @@ collection: booknotes
 category: sociology
 type: Guide
 permalink: /booknotes/sociology/the_evolution_of_god
-date: '2022'
+date: December 2022
 ---
 
 This book sees how religion evolved alongside humans, from hunter gatherer tribes to civilizations. More emphasis on the monotheist Abrahamic religions.
