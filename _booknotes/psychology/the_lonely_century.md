@@ -5,7 +5,7 @@ collection: booknotes
 category: psychology
 type: Guide
 permalink: /booknotes/psychology/the_lonely_century
-date: '2022'
+date: December 2022
 ---
 
 ### Chapter 2: Loneliness kills
