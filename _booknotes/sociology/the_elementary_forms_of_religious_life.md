@@ -5,7 +5,7 @@ collection: booknotes
 category: sociology
 type: Guide
 permalink: /booknotes/sociology/the_elementary_forms_of_religious_life
-date: '2024'
+date: May 2024
 ---
 
 ### Introduction
