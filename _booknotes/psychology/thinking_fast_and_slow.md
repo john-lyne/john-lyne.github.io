@@ -5,7 +5,7 @@ collection: booknotes
 category: psychology
 type: Guide
 permalink: /booknotes/psychology/thinking_fast_and_slow
-date: '2022'
+date: December 2022
 ---
 
 ## Part 1: Two systems

@@ -5,7 +5,7 @@ collection: booknotes
 category: psychology
 type: Guide
 permalink: /booknotes/psychology/happiness_hypothesis
-date: '2022'
+date: December 2022
 ---
 
 ### Neurological System Basics

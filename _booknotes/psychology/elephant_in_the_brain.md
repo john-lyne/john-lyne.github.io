@@ -5,7 +5,7 @@ collection: booknotes
 category: psychology
 type: Guide
 permalink: /booknotes/psychology/elephant_in_the_brain
-date: '2022'
+date: December 2022
 ---
 
 A book about psychological truths that we tend to pretend don’t exist but are more or less obvious, much like the saying “the elephant in the room”. Hence the title, the elephant in the brain.
