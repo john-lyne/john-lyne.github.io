@@ -5,7 +5,7 @@ collection: booknotes
 category: science
 type: Guide
 permalink: /booknotes/science/worlds_hidden_in_plain_sight_-_complexity_theory
-date: uncategorized
+date: May 2023
 ---
 
 * “Convenient idealizations that throw the complex baby out with the merely complicated bathwater” --- idealizations approach complex systems by removal of complex features, but the magic and realism of the system is lost in the process
