@@ -23,8 +23,12 @@
     @include suffix(2 of 12);
   }
 
-  .page__inner-wrap {
+.page__inner-wrap {
     @include full();
+
+    p {
+      white-space: pre-line;
+    }
 
     .page__content,
     .page__meta,
