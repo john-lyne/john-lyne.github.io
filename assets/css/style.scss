@@ -1,0 +1,11 @@
+---
+# This front matter tells Jekyll to compile this SCSS
+---
+
+@import "minimal-mistakes";
+
+// —–– Your overrides here
+
+.page__inner-wrap .page__content p {
+  white-space: pre-line !important;
+}
