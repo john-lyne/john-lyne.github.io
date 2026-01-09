@@ -156,6 +156,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+kramdown:
+  hard_wrap: true
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
