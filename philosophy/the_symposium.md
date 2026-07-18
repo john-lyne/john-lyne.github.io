@@ -5,7 +5,7 @@ collection: booknotes
 category: philosophy
 type: Guide
 permalink: /booknotes/philosophy/the_symposium
-date: uncategorized
+date: April 2026
 ---
 
 - “to see in him a so the ramiar ta onocrates, practising what he calls in the Theaterus his art of 'midwifery', by which he helps his associates to bring to birth the ideas and discoveries with which they are in travail.

@@ -5,7 +5,7 @@ collection: booknotes
 category: poetry
 type: Guide
 permalink: /booknotes/poetry/leaves_of_grass
-date: uncategorized
+date: February 2026
 ---
 
 ### Intro

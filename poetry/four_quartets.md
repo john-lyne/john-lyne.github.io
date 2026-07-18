@@ -5,7 +5,7 @@ collection: booknotes
 category: poetry
 type: Guide
 permalink: /booknotes/poetry/four_quartets
-date: uncategorized
+date: January 2026
 ---
 
 Epigraph contains to Heraclitus quotes:

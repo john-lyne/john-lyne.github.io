@@ -5,7 +5,7 @@ collection: booknotes
 category: literature
 type: Guide
 permalink: /booknotes/literature/oedipus_the_king
-date: uncategorized
+date: April 2026
 ---
 
 - “In Sophocles' time, most Greeks believed the fate of an individual was bound up with a daimon, a divinity that presided over every person's life. The Greek word for happiness, eudaimonia, meaning "well-daimoned," implies that a person so blessed might be permanently protected.“

@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/the_bijak_of_kabir
-date: uncategorized
+date: February 2026
 ---
 
 ## Intro

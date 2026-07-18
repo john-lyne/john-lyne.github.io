@@ -5,7 +5,7 @@ collection: booknotes
 category: philosophy
 type: Guide
 permalink: /booknotes/philosophy/wholeness_and_the_implicate_order
-date: uncategorized
+date: April 2026
 ---
 
 ### Ch 1: Fragmentation and Wholeness

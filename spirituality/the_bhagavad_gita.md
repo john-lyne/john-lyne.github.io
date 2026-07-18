@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/the_bhagavad_gita
-date: uncategorized
+date: April 2026
 ---
 
 ### Intro

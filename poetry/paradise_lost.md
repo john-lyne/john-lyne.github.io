@@ -5,7 +5,7 @@ collection: booknotes
 category: poetry
 type: Guide
 permalink: /booknotes/poetry/paradise_lost
-date: uncategorized
+date: February 2026
 ---
 
 ### Book I

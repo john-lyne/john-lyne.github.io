@@ -5,7 +5,7 @@ collection: booknotes
 category: poetry
 type: Guide
 permalink: /booknotes/poetry/selected_poems_of_seamus_heaney
-date: uncategorized
+date: March 2026
 ---
 
 - “And then when he thought of probes that reached the farthest, / He would see the shaft of a pitchfork sailing past / Evenly, imperturbably through space, / Its prongs starlit and absolutely soundless - // But has learned at last to follow that simple lead / Past its own aim, out to an other side / Where perfection - or nearness to it - is imagined / Not in the aiming but the opening hand.” (Pitchfork)

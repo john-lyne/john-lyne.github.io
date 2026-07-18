@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/cosmic_consciousness
-date: uncategorized
+date: January 2026
 ---
 
 ### First Words

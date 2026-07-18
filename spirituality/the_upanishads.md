@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/the_upanishads
-date: uncategorized
+date: March 2026
 ---
 
 ### Introduction

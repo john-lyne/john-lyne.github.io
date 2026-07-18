@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/the_lost_art_of_scripture
-date: uncategorized
+date: March 2026
 ---
 
 ## Part 1: Cosmos and Society

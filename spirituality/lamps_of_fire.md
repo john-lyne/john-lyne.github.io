@@ -5,7 +5,7 @@ collection: booknotes
 category: spirituality
 type: Guide
 permalink: /booknotes/spirituality/lamps_of_fire
-date: uncategorized
+date: January 2026
 ---
 
 ### The Spirit of Religion

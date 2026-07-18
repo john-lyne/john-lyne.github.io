@@ -5,7 +5,7 @@ collection: booknotes
 category: literature
 type: Guide
 permalink: /booknotes/literature/monkey
-date: uncategorized
+date: February 2026
 ---
 
 - Wukong is born from a stone that miraculously becomes pregnant bathed in nature, and cracks open to birth a stone egg. The wind ‘fructifies’ the stone, developing it into a monkey that then learns to climb and run.
